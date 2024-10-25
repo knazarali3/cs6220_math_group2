@@ -1,0 +1,68 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "sat-math-chain-of-thought",
+  "dataset_size": 38850173,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/ndavidson/sat-math-chain-of-thought@e922b0e1ff48854b3173d8817cbd8db5bb01d86c/data/train-00000-of-00001.parquet": {
+      "num_bytes": 14827647,
+      "checksum": null
+    }
+  },
+  "download_size": 14827647,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "reasoning_chain": {
+      "final_answer": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "steps": [
+        {
+          "explanation": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "is_correct": {
+            "dtype": "bool",
+            "_type": "Value"
+          }
+        }
+      ]
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "is_correct": {
+      "dtype": "bool",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 53677820,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 38850173,
+      "num_examples": 33081,
+      "dataset_name": "sat-math-chain-of-thought"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
