@@ -5,7 +5,9 @@ SAT Math Dataset from HuggingFace; We only take questions with correct solutions
 
 To load dataset,
 ```
-sat_math_datasets_splits = load_train_test_splits() 
+from datasets import load_from_disk
+
+sat_math_datasets_splits = load_from_disk('sat-math-datasets-splits')
 print(sat_math_datasets_splits)
 ```
 
