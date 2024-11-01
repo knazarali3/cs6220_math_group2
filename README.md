@@ -8,7 +8,7 @@ To setup a pace environment to fine-tune the models:
     - gtusername = gburdell2, etc.
 3. Create a workspace for the project
     - 'mkdir cs6220_project'
-    - Could also git clone this repository directly
+    - Could also git clone this repository directly (reference https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for           authentication when cloning the repository)
 4. Create an anaconda environment
     - 'module load anaconda3'
     - 'conda create -n cs6220'
