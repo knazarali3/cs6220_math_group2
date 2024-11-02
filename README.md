@@ -18,7 +18,8 @@ To setup a pace environment to fine-tune the models:
     - transformers: 'conda install conda-forge::transformers'
     - trl: 'pip install trl'
     - datasets: 'conda install conda-forge::datasets'
-    - bitsandbytes: IN PROGRESS
+    - bitsandbytes: 'pip install -U bitsandbytes'
+    - einops, timm: 'pip install timm einops'
 
 SAT Math Dataset from HuggingFace; We only take questions with correct solutions.
 80% Train 10% Test 10% Validation
