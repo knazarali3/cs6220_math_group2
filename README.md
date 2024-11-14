@@ -2,7 +2,6 @@
 
 ## Processed SAT Math Dataset: train and test splits
 sat_math_dict = load_dataset("knazarali3/group2_processed_sat_math_cot")
-print(sat_math_dict)
 ```
 DatasetDict({
     train: Dataset({
@@ -18,7 +17,6 @@ DatasetDict({
 
 ## Competition Math Dataset: train and test splits
 competition_math_dict = load_dataset("jeggers/competition_math", "original")
-print(competition_math_dict)
 ```
 DatasetDict({
     train: Dataset({
