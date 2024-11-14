@@ -1,29 +1,33 @@
 # cs6220_math_group2
 
-SAT Math Dataset from HuggingFace; We only take questions with correct solutions.
-80% Train 10% Test 10% Validation
-
-To load dataset,
-```
-from datasets import load_from_disk
-
-sat_math_datasets_splits = load_from_disk('sat-math-datasets-splits')
-print(sat_math_datasets_splits)
-```
-
+## Processed SAT Math Dataset: train and test splits
+sat_math_dict = load_dataset("knazarali3/group2_processed_sat_math_cot")
+print(sat_math_dict)
 ```
 DatasetDict({
     train: Dataset({
-        features: ['id', 'question', 'reasoning_chain', 'answer', 'is_correct'], 
-        num_rows: 29244
-    }) 
-    test: Dataset({ 
-        features: ['id', 'question', 'reasoning_chain', 'answer', 'is_correct'],
-        num_rows: 1625
-    }) 
-    valid: Dataset({
-        features: ['id', 'question', 'reasoning_chain', 'answer', 'is_correct'],  
-        num_rows: 1625
-    }) 
+        features: ['id', 'question', 'answer', 'is_correct', 'correct_reasoning_chain', 'index'],
+        num_rows: 25158
+    })
+    test: Dataset({
+        features: ['id', 'question', 'answer', 'is_correct', 'correct_reasoning_chain', 'index'],
+        num_rows: 6290
+    })
+})
+```
+
+## Competition Math Dataset: train and test splits
+competition_math_dict = load_dataset("jeggers/competition_math", "original")
+print(competition_math_dict)
+```
+DatasetDict({
+    train: Dataset({
+        features: ['problem', 'level', 'type', 'solution', 'extracted_solution'],
+        num_rows: 7500
+    })
+    test: Dataset({
+        features: ['problem', 'level', 'type', 'solution', 'extracted_solution'],
+        num_rows: 5000
+    })
 })
 ```
