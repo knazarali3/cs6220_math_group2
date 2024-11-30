@@ -1,0 +1,1426 @@
+,Question Id,llama_is_correct,Llama Model Solution Numbers,llema_is_correct,llema_solution,qwen_is_correct,Qwen Model Solution Numbers,mistral_is_correct,Mistral Model Solution Numbers,all_incorrect
+0,27493,False,[711],False,,False,[561],False,[5958],True
+3,22729,False,[11],False,,False,[12],False,[801],True
+5,9552,False,"[105, 15]",False,,False,[1575],False,[],True
+10,19577,False,[9444],False,25.0,False,"[95, 95]",False,[95],True
+12,26373,False,"[30, 60]",False,4.0,False,[3],False,[3],True
+22,12832,False,[31],False,,False,[],False,[13],True
+25,2078,False,[75],False,,False,[120],False,[40],True
+27,7104,False,[19],False,,False,[103],False,[29],True
+28,6095,False,"[99, 7, 7]",False,,False,[13],False,[],True
+36,20286,False,"[0, 2000]",False,100.0,False,[],False,[1],True
+38,11302,False,[3],False,37.0,False,[],False,[],True
+56,25256,False,[12],False,1.0,False,[18],False,[20],True
+58,4953,False,"[1400, 2]",False,,False,[300],False,[],True
+62,15581,False,[223],False,4.0,False,[2],False,[23],True
+63,20505,False,[189],False,129.0,False,[],False,[],True
+66,21810,False,[],False,,False,[],False,[],True
+67,6858,False,[83],False,,False,[],False,[11],True
+73,16160,False,[6],False,,False,[68],False,[7],True
+74,28339,False,"[2, 2, 4]",False,,False,[711],False,[],True
+75,18063,False,[250],False,,False,[],False,[841],True
+78,4085,False,[9],False,9.0,False,[],False,[9],True
+79,3441,False,"[5, 7]",False,,False,[4],False,[],True
+91,21040,False,"[4, 59]",False,44.0,False,[2],False,"[9, 59]",True
+95,21997,False,[],False,61.0,False,[60],False,[63],True
+100,24628,False,[11],False,1.0,False,[12],False,[15],True
+102,11329,False,"[120, 6]",False,2.0,False,[20],False,[],True
+105,23636,False,[4],False,,False,[],False,[],True
+106,26687,False,[3],False,,False,[23],False,[3],True
+109,27236,False,[12],False,12.0,False,[10],False,[24],True
+113,30389,False,[15],False,,False,[15],False,[53328],True
+119,6940,False,[14],False,14.0,False,[],False,[],True
+121,19959,False,[21],False,23.0,False,[2917],False,[300],True
+123,8341,False,[6],False,,False,[],False,[4],True
+124,8340,False,[568],False,,False,[1873],False,[228],True
+127,3265,False,"[2, 3, 8, 9, 10080]",False,,False,[10080],False,[],True
+128,23315,False,[1000],False,,False,[45],False,[1568],True
+136,1995,False,[39],False,,False,[],False,[39],True
+137,30140,False,[11],False,,False,[],False,[11],True
+140,816,False,[],False,,False,[256],False,[112],True
+143,4444,False,[],False,,False,[139],False,[],True
+150,1178,False,"[2, 3, 5, 30000]",False,,False,[10020],False,[],True
+153,27450,False,[55],False,,False,[40],False,[35],True
+157,20579,False,[14],False,,False,[],False,[14],True
+160,16351,False,[21],False,,False,[],False,[41],True
+169,10525,False,"[6, 60]",False,,False,[45],False,[600],True
+193,20499,False,[30],False,1933.0,False,[670],False,[],True
+195,29399,False,[300],False,1000.0,False,[],False,[83333],True
+200,7738,False,[15],False,3.0,False,[90],False,[],True
+205,20489,False,[1],False,,False,[10],False,[8],True
+207,7970,False,[8],False,,False,[10],False,[8],True
+210,5004,False,"[10000, 5020]",False,,False,[12],False,"[10000, 50]",True
+215,22670,False,[500],False,0.0,False,[],False,[400],True
+221,7146,False,[16],False,,False,[6],False,[],True
+223,17612,False,"[50, 115]",False,,False,[11100],False,"[50, 17]",True
+228,3661,False,[5200],False,5200.0,False,[50],False,[5100],True
+230,6577,False,[2],False,,False,[],False,[45],True
+232,5603,False,[46],False,36.0,False,[108],False,[],True
+233,2097,False,"[15, 18]",False,,False,[7],False,"[15, 18]",True
+234,15550,False,"[4070, 47]",False,,False,[],False,[12],True
+249,25517,False,"[56, 30]",False,,False,[],False,[],True
+251,1803,False,[7],False,6.0,False,[7],False,[],True
+253,23915,False,[],False,60.0,False,[],False,[540],True
+275,11591,False,[6],False,,False,[],False,[1],True
+280,15578,False,[8],False,3.0,False,[16],False,[26],True
+282,22775,False,[60],False,150.0,False,[270],False,[],True
+283,21221,False,[0],False,10.0,False,[7],False,[],True
+284,24745,False,"[19, 5, 4275]",False,63950.0,False,[9975],False,[],True
+285,3527,False,"[120, 0, 1, 2, 4, 9]",False,120.0,False,[4],False,[],True
+286,6256,False,[23],False,2.0,False,[43],False,[21],True
+289,5616,False,[12],False,,False,[9],False,[1815],True
+297,12477,False,[11],False,,False,[3],False,[9],True
+300,11730,False,[20700],False,,False,[207],False,[112500],True
+303,26710,False,[514],False,,False,[],False,[57],True
+308,5550,False,[60],False,24.0,False,[],False,[],True
+311,8588,False,[8],False,37.0,False,[8],False,[20],True
+322,22326,False,[35],False,,False,[93625],False,[4975],True
+326,9123,False,[20],False,9.0,False,[0],False,[20],True
+330,19841,False,[80],False,,False,[],False,[80],True
+336,10547,False,[],False,2.0,False,[3],False,[2],True
+343,5417,False,[1],False,11.0,False,[],False,[1],True
+344,26487,False,[3],False,,False,[2],False,[30],True
+346,27720,False,[18],False,,False,[4],False,[13],True
+349,18864,False,[66],False,,False,[],False,[50],True
+355,2719,False,"[24, 7, 2, 5, 9]",False,,False,[],False,[],True
+366,28509,False,"[125, 6, 10]",False,2.0,False,[3077],False,[],True
+367,15237,False,"[1625, 26]",False,,False,[75],False,[40],True
+375,1241,False,[268],False,,False,[],False,[],True
+416,25252,False,[8],False,0.0,False,[],False,[25],True
+422,27817,False,[6350],False,,False,[],False,[5800],True
+423,4066,False,"[120, 9]",False,120.0,False,[96],False,[],True
+428,6903,False,[300],False,100.0,False,[100],False,[148],True
+429,3363,False,[25],False,1700.0,False,[1150],False,[950],True
+431,25166,False,[500],False,500.0,False,[5],False,[500],True
+433,947,False,"[11, 5000, 8000]",False,,False,[9525],False,"[96000, 5000, 8000]",True
+436,14118,False,"[1200, 6]",False,1200.0,False,[4800],False,[],True
+439,27564,False,[451],False,,False,[],False,[],True
+447,3756,False,[72],False,18.0,False,[21],False,[],True
+465,25801,False,[750],False,,False,[275],False,[750],True
+473,4277,False,[],False,,False,[6],False,[],True
+475,15743,False,[32],False,,False,[16],False,[16],True
+476,16496,False,[2],False,,False,[],False,[21],True
+479,5038,False,"[2, 3, 8, 9, 10008]",False,72.0,False,[9816],False,[],True
+493,591,False,[9],False,10.0,False,[120],False,[],True
+503,10085,False,[5714],False,,False,[],False,[13333],True
+506,21978,False,[7],False,,False,[],False,[28],True
+508,8274,False,[60],False,80.0,False,[60],False,[60],True
+510,2892,False,[22],False,1.0,False,[],False,[110],True
+513,963,False,"[7, 9]",False,,False,[8],False,[],True
+516,28650,False,[13],False,,False,[10],False,[85],True
+517,21400,False,[98],False,7.0,False,[98],False,[],True
+525,16238,False,[95],False,,False,[15],False,[],True
+530,13787,False,[5],False,15.0,False,[],False,[],True
+531,11007,False,[96],False,8.0,False,[],False,[],True
+532,13267,False,[2],False,9.0,False,[12],False,[],True
+539,15947,False,[25],False,,False,[9],False,[6],True
+542,17867,False,[],False,,False,[],False,[0],True
+545,22349,False,[],False,,False,[4],False,[32],True
+549,20717,False,"[10, 8, 40000]",False,20.0,False,[80],False,"[10, 20, 40000]",True
+564,29681,False,[243],False,,False,[864],False,[40],True
+569,119,False,[38],False,24.0,False,[],False,[224],True
+574,4912,False,[6],False,36.0,False,[],False,[],True
+579,12277,False,[2193],False,2000.0,False,[1000],False,[2200],True
+580,7849,False,[10],False,3.0,False,[32],False,[4],True
+582,7742,False,[114],False,,False,[467],False,[114],True
+586,3242,False,[1],False,,False,[],False,[],True
+590,2084,False,[2],False,3.0,False,[2],False,[],True
+596,20197,False,[50],False,,False,[15],False,[75],True
+602,608eeb6e,False,[],False,,False,[],False,[],True
+607,28114,False,[1],False,56.0,False,[2],False,[7],True
+609,11975,False,[123],False,,False,[10],False,[13],True
+611,22156,False,[214],False,,False,[12],False,[1],True
+614,24994,False,[2],False,4.0,False,[2],False,[],True
+618,8970,False,[6],False,,False,[13],False,[27],True
+625,21697,False,[110],False,,False,[14],False,[12],True
+626,15694,False,[10],False,78.0,False,[435],False,[88],True
+629,27315,False,[625],False,,False,[],False,[625],True
+634,30704,False,[5],False,8.0,False,[],False,[],True
+640,6415,False,[400],False,,False,[],False,[225],True
+651,8895,False,[4],False,500.0,False,[],False,[17],True
+654,17580,False,[77],False,,False,[44],False,[],True
+658,15998,False,[4],False,5.0,False,[4],False,[4],True
+661,20262,False,[9],False,,False,[0],False,[11],True
+662,2775,False,"[576, 24]",False,,False,[40],False,[],True
+670,18924,False,[2],False,,False,[225],False,[85],True
+681,3707,False,"[0, 1, 3, 5, 7, 9, 103580]",False,,False,[104000],False,[],True
+683,6559,False,[45],False,,False,[0],False,"[5, 4]",True
+687,20759,False,"[2, 20]",False,12.0,False,[],False,[],True
+688,3511,False,[217],False,,False,[8],False,[],True
+693,29900,False,[140000],False,,False,[260000],False,[],True
+696,8565,False,[21],False,60.0,False,[86],False,[1357],True
+703,16387,False,[99],False,,False,[101],False,[98],True
+706,26472,False,[56],False,,False,[22],False,[28],True
+707,11523,False,[40],False,40.0,False,[],False,[17],True
+708,5887,False,[37],False,32.0,False,[1184],False,[48],True
+709,3146,False,[8],False,12.0,False,[8],False,[18],True
+711,3370,False,"[15, 2, 5, 0, 1, 2, 3, 4]",False,14.0,False,[8],False,[],True
+722,25894,False,[2],False,4.0,False,[],False,[1],True
+731,16978,False,"[10, 30]",False,100.0,False,[],False,[],True
+732,26039,False,"[72, 42]",False,,False,[],False,[],True
+739,17469,False,[51],False,,False,[],False,[132],True
+740,24024,False,[21],False,,False,[4],False,[21],True
+749,28365,False,[300],False,,False,[17996300],False,[133],True
+750,23435,False,[30],False,5.0,False,[24],False,[0],True
+751,19100,False,"[20, 4]",False,5.0,False,[20],False,"[9, 4]",True
+753,11417,False,[120],False,5.0,False,[48],False,[120],True
+754,30346,False,[20],False,10.0,False,[20],False,[20],True
+761,25449,False,[500],False,,False,[20],False,[1500],True
+762,30155,False,[2],False,,False,[],False,[1],True
+764,26596,False,[14],False,135.0,False,[95],False,[],True
+765,11249,False,"[10, 10]",False,,False,[5],False,"[10, 7]",True
+766,23027,False,[10],False,10.0,False,[2],False,[0],True
+769,19710,False,[74],False,,False,[12],False,[69],True
+771,16065,False,[26],False,12.0,False,[28],False,[32],True
+775,23764,False,[48],False,,False,[9],False,[16],True
+787,5856,False,[],False,,False,[],False,[],True
+789,17696,False,[6],False,5.0,False,[50],False,[10],True
+805,7105,False,[12],False,,False,[411],False,[31818],True
+810,21117,False,[9333],False,,False,[933313],False,[10000],True
+814,156,False,"[8, 1, 6, 1029]",False,,False,[1677],False,[167],True
+817,5399,False,"[4, 3, 1012]",False,3000.0,False,[1002],False,[1000000],True
+827,30156,False,[41],False,,False,[1138],False,[],True
+829,15417,False,[28374],False,,False,[],False,[1170],True
+832,17379,False,[72],False,,False,[],False,[4],True
+834,26605,False,[4],False,,False,[23],False,[4],True
+838,14651,False,[24],False,,False,[12],False,[10],True
+841,26665,False,[8],False,9.0,False,[8],False,[],True
+842,b4a6ed81,False,[1],False,9.0,False,[18],False,[18],True
+848,13830,False,[40],False,8.0,False,[12],False,[27],True
+852,3305,False,[],False,,False,[],False,[148],True
+853,23730,False,[],False,,False,[12],False,[13],True
+854,21524,False,[24],False,,False,[6031],False,[30],True
+858,4491,False,"[10000, 5200]",False,,False,[520],False,[],True
+862,17332,False,[],False,,False,[],False,[1],True
+863,20825,False,[13],False,,False,[],False,[13],True
+869,25519,False,[6],False,,False,[171],False,[37],True
+874,8359,False,[150],False,50.0,False,[],False,[50],True
+877,11030,False,[30],False,,False,[12],False,[150],True
+885,4469,False,[],False,,False,[],False,[],True
+886,2923,False,[12],False,12.0,False,[],False,[2],True
+892,25970,False,[6251],False,,False,[],False,[13],True
+901,11791,False,"[3, 6]",False,3.0,False,[2],False,[1],True
+902,22246,False,[13],False,,False,[],False,[11],True
+908,6203,False,[63],False,,False,[52],False,[53],True
+911,12569,False,[21],False,,False,[823],False,[910],True
+912,25047,False,[480],False,56.0,False,[320],False,[40],True
+913,10115,False,[99],False,,False,[],False,[4],True
+917,21037,False,[29],False,,False,[],False,[12],True
+920,630,False,"[81, 2, 100]",False,9.0,False,[],False,[],True
+923,1445,False,"[10, 10, 25]",False,,False,[],False,[],True
+925,4184,False,[2],False,4.0,False,[],False,[5],True
+929,17429,False,[8],False,14.0,False,[],False,[1],True
+948,3084,False,"[512, 13, 1]",False,,False,[34],False,[],True
+949,18900,False,[2],False,4.0,False,[],False,[5],True
+951,25063,False,[30],False,12.0,False,[12],False,[9],True
+961,6413,False,"[404, 12]",False,,False,[476],False,[76],True
+963,23085,False,[36000],False,24000.0,False,[53600],False,[29600],True
+967,2479,False,"[22, 2, 3, 7, 5]",False,840.0,False,[4],False,[],True
+976,4639,False,"[4374, 2]",False,,False,[288],False,[],True
+980,21561,False,[73],False,,False,[12],False,[3],True
+988,21896,False,[2],False,,False,[4],False,[],True
+993,2282,False,[1135],False,1112.0,False,[1134],False,[],True
+996,20477,False,[1],False,,False,[4],False,[2],True
+999,8136,False,[3],False,,False,[94],False,[10],True
+1000,7950,False,[400],False,,False,[],False,[2600],True
+1003,16402,False,[600],False,,False,[],False,[600],True
+1006,14557,False,[24],False,,False,[5],False,[105],True
+1022,1083,False,[8],False,7.0,False,[5],False,[],True
+1023,5161,False,[16],False,41.0,False,[66],False,[15],True
+1027,3323,False,"[5, 6]",False,500.0,False,[11],False,[],True
+1042,13201,False,[1660],False,,False,[1250],False,[18],True
+1049,2791,False,[17],False,100.0,False,[],False,[],True
+1051,16411,False,[59],False,,False,[34],False,[25],True
+1059,1315,False,[14201],False,,False,[14377],False,[1419],True
+1060,8899,False,[1],False,,False,[7],False,[4],True
+1062,20847,False,[10],False,,False,[],False,[12],True
+1067,12088,False,"[18, 360]",False,7200.0,False,[1],False,[20],True
+1073,5138,False,[3],False,1.0,False,[1],False,[],True
+1075,13017,False,[8],False,,False,[13],False,[14],True
+1084,20793,False,[40],False,10.0,False,[20],False,[],True
+1086,23190,False,"[1667, 10]",False,,False,[350],False,[100],True
+1090,3777,False,[550],False,,False,[],False,[1152],True
+1092,9004,False,[15],False,,False,[7],False,[4],True
+1096,10958,False,[7],False,,False,[0],False,[26],True
+1097,18029,False,[21],False,,False,[15],False,[45],True
+1098,7673,False,"[13, 2]",False,,False,[13],False,[10],True
+1107,9964,False,[1667],False,500.0,False,[12],False,[1100],True
+1113,2767,False,[7],False,4.0,False,[],False,[],True
+1122,24719,False,[38],False,,False,[78],False,[10],True
+1123,10103,False,[6],False,,False,[12],False,[48],True
+1130,11072,False,[6],False,1.0,False,[5],False,[1],True
+1131,13735,False,[1],False,,False,[1],False,[4],True
+1135,19822,False,[256251],False,,False,[],False,[114],True
+1137,10111,False,[105],False,,False,[],False,[2],True
+1140,22645,False,[42],False,,False,[60],False,[60],True
+1142,15444,False,[10],False,,False,[2],False,[2],True
+1143,26523,False,[5],False,,False,[5],False,[5],True
+1149,1333,False,[20],False,20.0,False,[22],False,[],True
+1158,3274,False,[],False,12.0,False,[],False,[],True
+1166,10960,False,[174],False,,False,[65],False,[2],True
+1167,191,False,"[2, 3, 8, 9, 864]",False,220.0,False,[1008],False,[],True
+1168,14590,False,"[120, 500]",False,90.0,False,[100],False,[1198],True
+1180,28037,False,[0],False,329.0,False,[10],False,[74],True
+1181,21510,False,[4],False,30.0,False,[4],False,[10],True
+1183,8159,False,[325],False,5.0,False,[7],False,[5],True
+1184,17950,False,[134],False,,False,[134],False,[3],True
+1185,25251,False,[22],False,26.0,False,[6],False,[10],True
+1187,15899,False,[23],False,425.0,False,[21],False,[105],True
+1188,18965,False,[914],False,,False,[928],False,[514],True
+1195,21826,False,[190],False,190.0,False,[87],False,[10],True
+1197,20421,False,[100],False,,False,[],False,[12],True
+1201,17298,False,[525],False,22.0,False,[500],False,[55],True
+1204,17343,False,[],False,,False,[31250],False,[30000],True
+1205,1317,False,"[105, 2, 45]",False,10.0,False,[1045],False,[235],True
+1212,14805,False,[63],False,,False,[51],False,[],True
+1215,1170,False,[898],False,,False,[],False,[850],True
+1216,8637,False,[],False,,False,[],False,[12],True
+1217,47,False,[],False,,False,[127],False,[],True
+1223,19060,False,"[238, 13600]",False,,False,[24],False,[248],True
+1224,12222,False,[2],False,3.0,False,[2],False,[511],True
+1230,18423,False,[15],False,,False,[15],False,[5],True
+1241,7264,False,"[2, 30]",False,3.0,False,[18],False,[2],True
+1242,23164,False,"[2, 75]",False,,False,[75],False,[100],True
+1245,22927,False,[140],False,140.0,False,[140],False,[140],True
+1256,27959,False,"[690, 5]",False,,False,[],False,[14],True
+1263,29477,False,[4],False,,False,[],False,[4],True
+1264,23370,False,[3000],False,,False,[23],False,[75],True
+1266,5327,False,[1],False,1.0,False,[1],False,[8],True
+1279,15708,False,[111],False,5.0,False,[2],False,[12],True
+1280,7692,False,[351],False,,False,[54],False,[2222],True
+1302,8640,False,[91],False,,False,[90],False,[],True
+1305,27198,False,[6200],False,,False,[],False,[1000],True
+1306,19722,False,[88],False,3.0,False,[],False,[88],True
+1311,12860,False,[],False,20.0,False,[20],False,[20],True
+1313,26295,False,[1],False,,False,[5],False,[14],True
+1320,24754,False,[3],False,3.0,False,[10],False,[10],True
+1324,30407,False,[140],False,140.0,False,[],False,[90],True
+1329,19124,False,"[12, 1, 12]",False,,False,[20],False,[76],True
+1357,28305,False,[10],False,,False,[120],False,[10],True
+1358,5969,False,"[7, 100]",False,,False,[],False,[],True
+1366,21127,False,[2],False,60.0,False,[1011],False,[18],True
+1367,26999,False,"[16, 50]",False,66.0,False,[2003],False,[15],True
+1369,16845,False,[62],False,,False,[2],False,[52],True
+1381,4708,False,[2],False,4.0,False,[],False,[443],True
+1382,6229,False,[61],False,,False,[2],False,[72],True
+1384,30051,False,"[8, 5]",False,14.0,False,[3],False,[],True
+1392,6049,False,[12],False,12.0,False,[16],False,[12],True
+1396,19047,False,[13],False,,False,[12],False,[13],True
+1400,9418,False,[160],False,192.0,False,[160],False,[342857],True
+1408,19514,False,"[2, 8]",False,8.0,False,[8],False,[],True
+1415,12666,False,[5],False,1.0,False,[200],False,[],True
+1422,6951,False,[120],False,,False,[],False,[100],True
+1431,15334,False,"[4, 88]",False,,False,[88],False,[224],True
+1438,13658,False,[33],False,,False,[24],False,[15],True
+1439,6099,False,"[3, 14, 2, 306]",False,2766.0,False,[153],False,[],True
+1444,5226,False,"[4, 8, 12, 9, 13, 2533]",False,,False,[22],False,[],True
+1445,4813,False,[14169],False,,False,[],False,[],True
+1447,21578,False,[78],False,,False,[63],False,[30],True
+1450,9032,False,[467],False,,False,[52],False,[53],True
+1455,17957,False,[133],False,,False,[24],False,[5],True
+1459,20699,False,[55],False,,False,[70],False,[140],True
+1471,8966,False,[11],False,,False,[4],False,[3],True
+1472,29912,False,[16],False,2.0,False,[23],False,[425510],True
+1474,3126,False,[4],False,420.0,False,[],False,[1],True
+1475,27005,False,[8],False,7.0,False,[21],False,[11],True
+1482,11517,False,[],False,7.0,False,[0],False,[6],True
+1485,9592,False,[240],False,288.0,False,[],False,[24],True
+1486,17488,False,[100],False,,False,[1],False,[5],True
+1488,13990,False,"[40, 60]",False,,False,[50],False,[],True
+1490,26656,False,"[40, 10]",False,,False,[14],False,[12],True
+1492,20968,False,[266],False,180.0,False,[],False,[266],True
+1494,3252,False,[0],False,,False,[7],False,[],True
+1495,19842,False,[124700],False,,False,[126500],False,[10350],True
+1499,7798,False,[2],False,,False,[1],False,[24],True
+1503,20375,False,[35],False,,False,[],False,[],True
+1506,5271,False,"[3, 1, 4, 6, 7, 1, 471]",False,146.0,False,[],False,[],True
+1508,3516,False,[435],False,,False,[435],False,[51825],True
+1510,15109,False,[3440],False,,False,[],False,[2585],True
+1513,28994,False,[2800],False,,False,[2800],False,[1300],True
+1515,28001,False,"[27, 35, 35]",False,,False,[],False,[],True
+1523,7870,False,[28],False,,False,[12],False,[3],True
+1525,9858,False,[1125],False,,False,[55],False,[93],True
+1530,25669,False,[2],False,11.0,False,[],False,[44],True
+1531,6008,False,"[120, 200, 5, 8]",False,20.0,False,[50],False,[],True
+1533,7946,False,[16],False,,False,[8],False,[20],True
+1542,22191,False,[301],False,,False,[2011],False,[119],True
+1545,23866,False,[980],False,,False,[2928],False,[2418],True
+1549,2045,False,[1],False,1.0,False,[1],False,[],True
+1553,14985,False,[1300],False,2.0,False,[2],False,[96],True
+1554,22363,False,[12],False,,False,[234],False,[710],True
+1558,21792,False,"[24, 160]",False,,False,[40],False,[4],True
+1574,4201,False,[83],False,82.0,False,[83],False,[83],True
+1576,21731,False,[4778],False,,False,[50],False,[275],True
+1577,14900,False,[355],False,,False,[18833],False,[6480],True
+1580,3244,False,[11667],False,,False,[125],False,[5],True
+1585,22605,False,[325],False,,False,[400],False,[12],True
+1591,8947,False,"[8, 10000]",False,,False,[1250],False,[10],True
+1593,13270,False,[11],False,4.0,False,[14],False,[],True
+1594,19679,False,[],False,1.0,False,[],False,[30],True
+1597,16711,False,[2560],False,2560.0,False,[2560],False,[2560],True
+1609,4644,False,[533],False,,False,[232],False,[222],True
+1610,14208,False,[],False,,False,[4],False,[12],True
+1619,20815,False,[0],False,1.0,False,[0],False,[],True
+1621,11854,False,[20],False,,False,[20],False,[110],True
+1622,27774,False,[30],False,4.0,False,[],False,[],True
+1626,1851,False,[383],False,25.0,False,[23],False,[24],True
+1634,12349,False,[11],False,,False,[],False,[88],True
+1638,10329,False,[5],False,,False,[5],False,[],True
+1642,29761,False,[266],False,,False,[2],False,[6000],True
+1647,11399,False,[9],False,,False,[],False,[9],True
+1648,7324,False,[200],False,,False,[],False,[180],True
+1659,12727,False,[42],False,0.0,False,[],False,[15],True
+1674,9264,False,[],False,,False,[3],False,[8],True
+1680,20520,False,[3],False,,False,[12],False,[192],True
+1681,3436,False,"[8, 12, 21000]",False,,False,[1050],False,[],True
+1682,269,False,[12],False,60.0,False,[9],False,[450],True
+1685,705,False,[4],False,6.0,False,[4],False,[12],True
+1695,7037,False,[21],False,,False,[21],False,[],True
+1696,21092,False,[70],False,53.0,False,[],False,[666],True
+1697,23254,False,"[3, 150]",False,6.0,False,[],False,[25],True
+1711,19881,False,"[130, 2]",False,111.0,False,[210],False,[110],True
+1724,27728,False,"[3975, 100]",False,,False,[],False,[1160],True
+1726,29971,False,[5],False,5.0,False,[5],False,[10],True
+1733,27510,False,[1650],False,,False,[145],False,[18],True
+1736,2456,False,[],False,,False,[],False,[288200],True
+1744,14959,False,[10],False,3.0,False,[15],False,[10],True
+1745,2619,False,[10],False,,False,[4],False,[],True
+1747,16600,False,[12],False,,False,[12],False,[34],True
+1750,28604,False,[85],False,,False,[75],False,[],True
+1752,24733,False,[35],False,,False,[35],False,[67],True
+1758,9579,False,[],False,13.0,False,[6],False,[15],True
+1760,17470,False,[1],False,,False,[],False,[10666],True
+1767,15741,False,[180],False,,False,[32],False,[36],True
+1769,9877,False,[1],False,,False,[4],False,[29],True
+1771,22828,False,[51],False,,False,[12],False,[32],True
+1772,17831,False,[34],False,,False,[34],False,[45100],True
+1774,9465,False,[550],False,,False,[500],False,[400],True
+1776,1786,False,[247],False,184.0,False,[],False,[20],True
+1790,22239,False,[9],False,,False,[6],False,[],True
+1799,9880,False,[8],False,,False,[10],False,[10],True
+1804,3676,False,[425000],False,425.0,False,[425],False,[425],True
+1805,20767,False,[511],False,,False,[0],False,[58],True
+1809,2671,False,"[12, 53, 2025]",False,975.0,False,[325],False,[],True
+1828,29518,False,[23],False,,False,[23],False,[],True
+1829,4096,False,[1],False,,False,"[4, 200]",False,[],True
+1831,19406,False,[175],False,,False,[375],False,[],True
+1849,19221,False,[80],False,,False,[225],False,[20],True
+1850,12819,False,[11],False,78.0,False,[63],False,[1],True
+1854,28780,False,[216],False,160.0,False,[144],False,[],True
+1859,13557,False,[21],False,,False,[],False,[74],True
+1863,10622,False,"[147, 115, 32]",False,,False,[],False,[],True
+1869,23011,False,[155],False,15.0,False,[25],False,[25],True
+1870,17292,False,[27],False,500.0,False,[375],False,[170],True
+1881,11002,False,[14455],False,,False,[1200],False,[6400],True
+1882,27437,False,[146],False,183.0,False,[67],False,[84],True
+1883,17769,False,"[70, 40]",False,,False,[2],False,[45],True
+1886,27630,False,[16860],False,4000.0,False,[18640],False,[22500],True
+1892,16129,False,[10],False,13.0,False,[9],False,[],True
+1897,20952,False,[4],False,9.0,False,[],False,[2],True
+1902,ff501705,False,[],False,,False,[152],False,[],True
+1904,25952,False,"[120, 4]",False,2400.0,False,[10],False,[667],True
+1910,15378,False,[],False,,False,[],False,[60],True
+1916,1359,False,[1022],False,1049.0,False,[1029],False,[989],True
+1919,20412,False,[80],False,16.0,False,[15],False,[30],True
+1930,2221,False,[],False,,False,[],False,[],True
+1935,4099,False,[500],False,,False,[],False,[500],True
+1938,23278,False,"[24, 1667]",False,160.0,False,[],False,[12],True
+1942,21822,False,[5],False,3.0,False,[3],False,[3],True
+1949,26248,False,[15],False,60.0,False,[15],False,[23],True
+1952,15958,False,[34],False,,False,[],False,[20],True
+1961,26032,False,[],False,,False,[15],False,[15],True
+1964,23754,False,[74],False,,False,[74],False,[13],True
+1972,29259,False,[375],False,,False,[50],False,[300],True
+1975,21766,False,[400],False,,False,[2000],False,[666],True
+1977,17543,False,[667],False,6.0,False,[],False,[15],True
+1978,14828,False,[],False,10.0,False,[],False,[20],True
+1981,18120,False,[],False,,False,[],False,[5],True
+1986,2891,False,[15],False,3.0,False,[3],False,[],True
+1989,15780,False,[139],False,,False,[59],False,[],True
+1991,12449,False,[10],False,,False,[20],False,[120],True
+2003,8583,False,"[30, 3050]",False,20.0,False,[60],False,[],True
+2010,19042,False,"[11, 35]",False,66.0,False,[],False,[43],True
+2013,19544,False,[400000],False,,False,[],False,[600000],True
+2016,17151,False,[1200],False,,False,[1200],False,[12],True
+2021,21922,False,[141],False,,False,[25],False,[512],True
+2034,17443,False,[15],False,12.0,False,[22],False,[15],True
+2039,27966,False,[],False,0.0,False,[116],False,[1],True
+2042,2178,False,[1238],False,,False,[2799],False,[],True
+2051,24666,False,[32],False,2.0,False,[3],False,[2],True
+2053,6778,False,[375],False,,False,[5],False,[60],True
+2054,14971,False,[1000],False,,False,[],False,[100],True
+2057,22909,False,"[14, 100000]",False,11.0,False,[12],False,[13],True
+2060,1100,False,[],False,120.0,False,[27],False,[120],True
+2068,30048,False,[6],False,4.0,False,[5],False,[10],True
+2075,23135,False,[4974],False,,False,[5],False,[19],True
+2079,19228,False,[6],False,,False,[6],False,[15],True
+2080,1875,False,[20],False,10.0,False,[4],False,[10],True
+2081,4203,False,"[479001600, 12, 3]",False,,False,[],False,[2],True
+2086,12008,False,[30],False,,False,[65],False,[6666],True
+2087,6680,False,[730],False,5.0,False,[2],False,[10],True
+2092,28975,False,[22],False,22.0,False,[22],False,[12],True
+2095,3069,False,[65],False,100.0,False,[230],False,[123],True
+2098,1633,False,"[10000, 4800]",False,,False,[48],False,[],True
+2102,13781,False,[],False,12.0,False,[9],False,[5],True
+2106,13963,False,[53],False,,False,[23],False,[14],True
+2114,23443,False,[40],False,,False,[],False,[68],True
+2119,29637,False,"[2018, 2019]",False,,False,[70],False,[],True
+2120,22217,False,[149],False,,False,[12],False,[10],True
+2122,9473,False,"[10, 20]",False,10.0,False,[200],False,[50],True
+2124,21486,False,[32],False,2.0,False,[32],False,[112],True
+2126,18530,False,"[151, 2, 151, 2]",False,,False,[71],False,[186186062],True
+2133,7750,False,[3167],False,,False,[],False,[10],True
+2138,11297,False,[7],False,,False,[],False,[21],True
+2139,21674,False,"[40, 30]",False,,False,[20],False,[18],True
+2141,27128,False,[0],False,20.0,False,[],False,[15],True
+2148,11880,False,[65],False,40.0,False,[50],False,[40],True
+2151,13713,False,[31],False,,False,[5],False,[12],True
+2155,4405,False,[5],False,7.0,False,[6],False,[],True
+2156,8965,False,[151],False,,False,[],False,[727],True
+2161,2482,False,[],False,,False,[],False,[],True
+2163,18979,False,"[10, 10000]",False,,False,[20000],False,[40100000],True
+2164,1779,False,[7],False,,False,[],False,[6],True
+2168,2308,False,[4],False,,False,[],False,[],True
+2171,19559,False,[51],False,,False,[2],False,[2],True
+2173,21915,False,[],False,,False,[100],False,[204],True
+2175,6123,False,[3],False,,False,[92],False,[],True
+2177,24433,False,[14],False,21.0,False,[15],False,[],True
+2182,25822,False,[],False,,False,[15],False,[10],True
+2185,11654,False,[22],False,,False,[22],False,[18],True
+2186,14163,False,"[3, 55]",False,,False,[559],False,[275],True
+2191,28007,False,[342],False,,False,[779],False,[576],True
+2198,21222,False,"[2, 14, 5]",False,,False,[],False,[23],True
+2199,14399,False,[1335],False,,False,[25],False,[50],True
+2200,15450,False,[],False,,False,[18],False,[14],True
+2201,2862,False,[3560],False,3555.0,False,[30],False,[],True
+2204,12563,False,[32],False,,False,[],False,[11510],True
+2210,16828,False,[3],False,,False,[23],False,[15],True
+2211,13841,False,"[3, 1]",False,,False,[25],False,[3],True
+2214,23600,False,[10],False,,False,[10],False,[900],True
+2220,20688,False,[14],False,,False,[25],False,[34],True
+2228,18295,False,"[35, 3]",False,,False,[4],False,[],True
+2229,11359,False,[1667],False,10.0,False,[40],False,[],True
+2230,26056,False,[38000],False,,False,[],False,[832000],True
+2237,202,False,[],False,,False,[],False,[],True
+2241,24856,False,[20],False,20.0,False,[20],False,[8],True
+2243,1102,False,[24],False,6.0,False,[],False,[24],True
+2245,2217,False,[112],False,,False,[],False,[],True
+2247,8316,False,"[59, 65]",False,,False,[130],False,[16],True
+2250,22080,False,[1],False,,False,[3],False,[4],True
+2254,14883,False,[533],False,5.0,False,[750],False,[35],True
+2255,2906,False,[290],False,283.0,False,[28],False,[105],True
+2259,22227,False,[13],False,12.0,False,[13],False,[],True
+2266,26297,False,[13],False,13.0,False,[19],False,[],True
+2270,25219,False,[24],False,9.0,False,[],False,[9],True
+2271,2387,False,"[525, 1]",False,4500.0,False,[450],False,[],True
+2279,790,False,[23],False,57.0,False,[55],False,[53],True
+2280,22237,False,[35],False,15.0,False,[],False,[],True
+2281,29296,False,[25],False,,False,[50],False,[2],True
+2284,17570,False,[3800],False,1000.0,False,[1071440],False,[12000],True
+2289,29057,False,[6],False,25.0,False,[],False,[10],True
+2291,27492,False,[23],False,,False,[10],False,[4223],True
+2303,5964,False,"[1000, 2000, 3001001]",False,,False,[],False,[],True
+2305,9660,False,[14],False,,False,[20],False,[1022],True
+2308,11241,False,[3375],False,,False,[5],False,[20],True
+2310,3241,False,[0],False,,False,[],False,[24],True
+2311,19440,False,[475],False,,False,[20],False,[50],True
+2313,16272,False,[6],False,,False,[],False,[15],True
+2314,13684,False,[7],False,,False,[120],False,[190],True
+2315,30145,False,[60],False,,False,[10],False,[45],True
+2321,29673,False,[12],False,275.0,False,[3],False,[],True
+2322,29435,False,[26],False,100.0,False,[],False,[186],True
+2327,12650,False,[165],False,,False,[18],False,[35],True
+2328,12285,False,[17],False,7.0,False,[],False,[1],True
+2329,15442,False,[16],False,,False,[17],False,[11],True
+2331,14796,False,[50],False,50.0,False,[50],False,[50],True
+2339,2313,False,[],False,,False,[],False,[],True
+2345,7929,False,[10],False,82.0,False,[10],False,[70],True
+2350,24943,False,[840],False,,False,[900],False,[4000],True
+2352,7650,False,[150],False,525.0,False,[525],False,[11],True
+2365,9127,False,[88],False,,False,[100],False,[8],True
+2370,936,False,[24],False,15.0,False,[],False,[],True
+2372,3984,False,[5],False,,False,[4050],False,[],True
+2373,6057,False,[9],False,,False,[9],False,[],True
+2374,26536,False,[206],False,100.0,False,[54],False,[1470],True
+2377,7493,False,[1551],False,,False,[131],False,[21660],True
+2383,17699,False,[225],False,,False,[],False,[14667],True
+2384,28879,False,[2],False,10.0,False,[],False,[10],True
+2391,27371,False,[],False,10.0,False,[17],False,[17],True
+2398,12214,False,[34],False,63.0,False,[44],False,[43],True
+2399,14741,False,"[55, 1]",False,,False,[12],False,[],True
+2400,14686,False,[60],False,,False,[],False,[30],True
+2401,25487,False,[12],False,,False,[12],False,[54],True
+2405,10752,False,[54],False,144.0,False,[],False,[],True
+2407,14687,False,[12],False,,False,[14],False,[1127],True
+2408,24794,False,[146],False,50.0,False,[110],False,[130],True
+2421,13907,False,[34],False,,False,[18],False,[13],True
+2425,22601,False,[400],False,,False,[250],False,[175],True
+2426,7498,False,[15000],False,,False,[],False,[],True
+2429,24381,False,[675],False,,False,[],False,[200],True
+2431,8632,False,[],False,45.0,False,[11],False,[],True
+2447,13493,False,[15],False,,False,[32],False,[81],True
+2452,24064,False,[1413],False,2.0,False,[],False,[179],True
+2457,4315,False,[210],False,200.0,False,[95],False,[21],True
+2459,20316,False,[100],False,,False,[],False,[50],True
+2469,9899,False,[198],False,,False,[825],False,[44],True
+2474,7134,False,"[137, 32]",False,,False,[],False,[32],True
+2476,26904,False,[3],False,,False,[],False,[7],True
+2481,9720,False,[15],False,,False,[15],False,[15],True
+2487,7597,False,"[10, 6]",False,8.0,False,[8],False,[1],True
+2491,28760,False,[648],False,,False,[710],False,[15],True
+2492,17902,False,[27],False,,False,[24],False,[25],True
+2494,8676,False,[5],False,,False,[5],False,[450],True
+2498,17704,False,[5142],False,,False,[],False,[12],True
+2503,17564,False,[22857],False,28000.0,False,[700],False,[130],True
+2504,24976,False,[160],False,,False,[],False,[200],True
+2506,13616,False,[72],False,0.0,False,[112],False,[6],True
+2507,28950,False,"[2, 833]",False,,False,[50],False,[25],True
+2510,30429,False,[2300],False,,False,[25556],False,[],True
+2512,12049,False,"[11, 6]",False,13.0,False,[10],False,[12],True
+2513,24435,False,[110],False,1152.0,False,[2744],False,[12],True
+2514,531,False,[425],False,,False,[],False,[88],True
+2516,27633,False,[41],False,,False,[20],False,[42],True
+2520,6277,False,[1112],False,,False,[512],False,[51],True
+2524,27796,False,[35],False,30.0,False,[50],False,[35],True
+2530,10223,False,[71],False,,False,[19],False,[12],True
+2534,14870,False,[49],False,20.0,False,[31],False,[21],True
+2541,19739,False,[30],False,15.0,False,[15],False,[],True
+2542,17626,False,"[13, 255]",False,62.0,False,[25],False,[],True
+2543,25269,False,"[8, 2]",False,,False,[4],False,[16],True
+2546,1304,False,"[500, 357703]",False,420500.0,False,[421],False,[444],True
+2548,3577,False,[20],False,,False,[],False,[2],True
+2551,20182,False,[6],False,,False,[22],False,[1457],True
+2558,4197,False,"[3, 11]",False,1.0,False,[3],False,[14],True
+2561,14039,False,[50],False,250.0,False,[75],False,[2],True
+2566,7690,False,[6923],False,,False,[],False,[150],True
+2573,5362,False,"[4, 100]",False,,False,[2],False,[50],True
+2580,12142,False,[7],False,,False,[],False,[14],True
+2588,28148,False,[132],False,,False,[],False,[360],True
+2598,1667,False,[99992],False,,False,[99992],False,[],True
+2607,11034,False,[4],False,1.0,False,[51],False,[512],True
+2613,math_problem_002,False,[120],False,240.0,False,[168],False,[312],True
+2620,25175,False,[10],False,18.0,False,[10],False,[13],True
+2624,11772,False,[1],False,,False,[4],False,[1],True
+2625,23458,False,[14],False,16.0,False,[14],False,[8],True
+2637,24359,False,[13],False,15.0,False,[13],False,[13],True
+2638,6310,False,[18],False,,False,[20],False,[42],True
+2658,617,False,[79],False,99.0,False,[],False,[],True
+2661,20269,False,[12],False,13.0,False,[10],False,[10],True
+2662,3130,False,[7],False,,False,[],False,[7],True
+2674,20677,False,[16667],False,,False,[150],False,[200],True
+2677,26966,False,"[1, 2, 4, 5, 10, 20]",False,20.0,False,[],False,[],True
+2679,18321,False,[31],False,,False,[],False,[101],True
+2683,23107,False,[5760],False,36.0,False,[],False,[210],True
+2684,6751,False,[32],False,10.0,False,[17],False,[],True
+2686,7820,False,"[2, 300]",False,,False,[800],False,[2],True
+2698,10755,False,"[20, 11]",False,,False,[12],False,[],True
+2712,12823,False,"[5, 5]",False,,False,[46],False,[16],True
+2718,2017,False,[],False,,False,[],False,[],True
+2723,16302,False,[201],False,525.0,False,[225112],False,[],True
+2725,18428,False,[12],False,,False,[9580],False,[15],True
+2727,6171,False,[24],False,,False,[24],False,[],True
+2728,16462,False,[1225],False,4.0,False,[334],False,[5],True
+2740,21704,False,[7833],False,,False,[],False,[57],True
+2749,17156,False,[195],False,,False,[],False,[10],True
+2752,17168,False,[1],False,,False,[12],False,[1],True
+2754,559,False,[216],False,108.0,False,[],False,[36],True
+2764,20658,False,[10],False,40.0,False,[10],False,[10],True
+2765,17219,False,"[14, 7]",False,3.0,False,[6],False,[5],True
+2766,24716,False,[19],False,,False,[2],False,[15],True
+2781,23407,False,[],False,4.0,False,[],False,[10],True
+2784,24096,False,[],False,,False,[12],False,[115],True
+2791,22297,False,[64],False,,False,[64],False,[10],True
+2794,29881,False,[2],False,,False,[17],False,[1],True
+2797,18772,False,[2],False,,False,[],False,[8],True
+2802,27661,False,[3],False,50.0,False,[5],False,[5],True
+2804,6023,False,"[2, 2, 11]",False,,False,[1110],False,[],True
+2805,4667,False,[354],False,354.0,False,[354],False,[],True
+2806,27699,False,[17142],False,,False,[67],False,[],True
+2816,26220,False,[21],False,,False,[1519],False,[811],True
+2817,16190,False,[1472],False,,False,[1472],False,[],True
+2818,29635,False,[8333],False,,False,[10712],False,[],True
+2820,6371,False,[46],False,69.0,False,[],False,[13],True
+2831,4827,False,[],False,18.0,False,[1248],False,[],True
+2833,21068,False,"[55000, 1]",False,,False,[3],False,[10],True
+2834,10712,False,[31],False,,False,[],False,[200100],True
+2837,612,False,"[768, 2, 36, 80]",False,,False,[1664],False,[],True
+2839,19134,False,[28],False,88.0,False,[28],False,[],True
+2846,12132,False,[40],False,14.0,False,[70],False,[60],True
+2866,20367,False,"[2, 35]",False,,False,[12],False,[16],True
+2875,27853,False,[12],False,,False,[12],False,[111],True
+2892,172,False,"[3, 9, 7, 9]",False,,False,[10],False,[1],True
+2895,3626,False,[3],False,7.0,False,[],False,[10],True
+2900,19249,False,[2900],False,,False,[5600],False,[],True
+2901,25827,False,[5],False,,False,[7],False,[16],True
+2911,11672,False,[10],False,,False,[],False,[],True
+2914,22710,False,[1],False,10.0,False,[],False,[],True
+2916,14777,False,[],False,,False,[12],False,[12],True
+2917,6380,False,[8125],False,,False,[25],False,[100],True
+2923,815,False,[60],False,,False,[],False,[11],True
+2925,11384,False,[16],False,,False,[],False,[25],True
+2929,11653,False,[32],False,1.0,False,[8],False,[],True
+2932,17030,False,[35],False,41.0,False,[5],False,[6],True
+2936,9267,False,[14],False,60.0,False,[525],False,[80],True
+2961,18795,False,[2],False,,False,[2],False,[11781],True
+2962,29829,False,[856],False,,False,[],False,[15000],True
+2963,26956,False,[110],False,,False,[110],False,[2750],True
+2964,1830,False,[24],False,24.0,False,[],False,[],True
+2965,25444,False,[144],False,,False,[24],False,[12],True
+2968,9445,False,[5714],False,,False,[20],False,[566],True
+2969,2201,False,[175],False,14.0,False,[5],False,[],True
+2970,27340,False,[650],False,,False,[35],False,[2],True
+2975,28601,False,[16],False,,False,[],False,[3],True
+2976,22518,False,"[50, 100]",False,,False,[2],False,[11],True
+2982,4387,False,[5],False,5.0,False,[5],False,[765],True
+2984,4019,False,[333333],False,,False,[103],False,[],True
+2987,28856,False,[1883],False,,False,[],False,[4126],True
+2995,7398,False,[1],False,,False,[5],False,[12],True
+2997,952,False,[5625],False,,False,[7],False,[],True
+2999,9343,False,[650],False,,False,[35],False,[5],True
+3000,29895,False,[4650],False,398.0,False,[85],False,[100],True
+3003,10431,False,[15],False,,False,[],False,[17],True
+3013,23949,False,[3798],False,,False,[60],False,[108],True
+3015,26111,False,[197],False,,False,[],False,[58],True
+3020,27679,False,[77],False,,False,[],False,[11],True
+3026,13976,False,[45],False,25.0,False,[140],False,[120],True
+3031,13935,False,[],False,,False,[14],False,[13],True
+3048,29537,False,[12000],False,,False,[7000],False,[35000],True
+3052,4618,False,"[3, 533]",False,,False,[815],False,[12],True
+3056,math-0012,False,"[630, 4, 0]",False,50.0,False,[125],False,[105],True
+3063,14298,False,[13],False,,False,[1],False,[4],True
+3067,27579,False,[9],False,,False,[],False,[9],True
+3069,9919,False,[35],False,35.0,False,[35],False,[42],True
+3070,4347,False,"[1000, 3]",False,,False,[3000],False,[],True
+3071,2225,False,"[45, 875]",False,,False,[10],False,[1],True
+3075,18903,False,[2],False,19.0,False,[35],False,[11],True
+3076,6552,False,[16],False,,False,[0],False,[],True
+3078,9266,False,[71429],False,,False,[200],False,[60875],True
+3079,1024,False,[1],False,2.0,False,[],False,[1],True
+3080,28766,False,[],False,,False,[19],False,[340],True
+3082,9921,False,"[3111, 4]",False,,False,[],False,[32],True
+3088,25296,False,"[25, 50]",False,,False,[10],False,[45],True
+3090,9875,False,[14],False,,False,[34],False,[14],True
+3092,2517,False,[2],False,42.0,False,[72],False,[],True
+3093,14,False,[5],False,,False,[],False,[],True
+3096,9181,False,[140],False,165.0,False,[260],False,[255],True
+3097,16441,False,[207],False,,False,[7],False,[195],True
+3098,13894,False,"[11, 3]",False,37.0,False,[11],False,[11],True
+3106,5404,False,[30],False,30.0,False,[],False,[],True
+3107,2998,False,[440],False,600.0,False,[440],False,[520],True
+3108,1124,False,[120],False,480.0,False,[20],False,[24],True
+3109,376,False,"[24, 96]",False,8.0,False,[24],False,[24],True
+3121,7675,False,[12],False,,False,[12],False,[12],True
+3126,1589,False,"[48, 3, 3, 4, 0, 1, 2, 3]",False,64.0,False,[64],False,[],True
+3127,8834,False,[17],False,,False,[],False,[10],True
+3129,13136,False,[110],False,,False,[22],False,[],True
+3131,3900,False,"[3, 30, 5]",False,,False,[18],False,[],True
+3132,1133,False,[88],False,,False,[],False,[0],True
+3138,27958,False,[145],False,,False,[150],False,[10],True
+3139,7952,False,[40],False,,False,[403],False,[1000],True
+3142,7803,False,[188],False,,False,[],False,[330],True
+3143,30594,False,"[30, 75]",False,,False,[75],False,[],True
+3147,3947,False,"[7, 8]",False,,False,[5],False,[],True
+3152,18962,False,[54],False,2.0,False,[2],False,[104],True
+3156,10465,False,[3],False,,False,[5],False,[],True
+3160,23861,False,[18],False,1786.0,False,[1860],False,[10],True
+3164,7029,False,[768],False,,False,[2],False,[38],True
+3165,1511,False,[87615],False,11682.0,False,[],False,[],True
+3166,19477,False,[1200],False,,False,[],False,[16000],True
+3168,345,False,[905],False,,False,[905],False,[],True
+3174,950,False,[],False,,False,[],False,[],True
+3176,192,False,[42],False,,False,[],False,[530],True
+3181,14030,False,[95],False,,False,[25],False,[15],True
+3194,9026,False,[12],False,,False,[2],False,[120],True
+3199,7603,False,[3],False,27.0,False,[],False,[27],True
+3200,10100,False,[8],False,2.0,False,[],False,[25],True
+3201,28366,False,[32],False,,False,[18],False,[25],True
+3205,26791,False,[36],False,320.0,False,[],False,[12],True
+3206,26865,False,[138],False,,False,[4],False,[3],True
+3216,1033,False,"[4, 2]",False,3.0,False,[],False,[3],True
+3218,9893,False,"[21, 2]",False,14.0,False,[6],False,[2880],True
+3231,5281,False,"[370, 1, 3, 4, 7, 360, 455]",False,31.0,False,[6],False,[36],True
+3232,21478,False,[91],False,,False,[10],False,[35],True
+3235,24029,False,[14],False,,False,[14],False,[7],True
+3237,5902,False,[15],False,9.0,False,[5],False,[],True
+3239,24851,False,[610],False,140.0,False,[39],False,[70],True
+3241,18664,False,[1519],False,,False,[],False,[880],True
+3246,5583,False,[666],False,,False,[666],False,[],True
+3247,13668,False,[1112],False,,False,[1112],False,[12],True
+3252,20154,False,"[2800, 4]",False,,False,[2240],False,[2420],True
+3253,157,False,"[36, 6]",False,60.0,False,[],False,[6000],True
+3263,25078,False,[],False,,False,[3],False,[10],True
+3264,16602,False,[14],False,,False,[23],False,[10],True
+3284,5664,False,[133],False,,False,[133],False,[90],True
+3294,7008,False,[30],False,,False,[60],False,[24],True
+3296,26252,False,[21],False,,False,[1],False,[214],True
+3299,2595,False,"[5, 3]",False,3.0,False,[1],False,[3],True
+3305,7577,False,[],False,,False,[6],False,[12],True
+3306,2912,False,[],False,,False,[],False,[],True
+3310,9775,False,[213],False,,False,[210],False,[1001],True
+3312,24023,False,[48],False,8.0,False,[24],False,[8],True
+3319,13166,False,[84],False,,False,[10],False,[10],True
+3323,8998,False,[67],False,7.0,False,[7],False,[10],True
+3324,3489,False,[131],False,,False,[],False,[88],True
+3325,1548,False,[6],False,,False,[6],False,[6],True
+3330,5080,False,[18],False,,False,[],False,[],True
+3331,19677,False,[],False,,False,[],False,[6],True
+3334,2969,False,[55],False,,False,[2],False,[1],True
+3336,22061,False,[],False,,False,[16],False,[5100],True
+3338,826,False,[14655],False,,False,[1454],False,[1458],True
+3342,2802,False,"[321, 1]",False,270.0,False,[],False,[56],True
+3344,504,False,[],False,2000.0,False,[],False,[2500],True
+3349,21972,False,[1914],False,,False,[],False,[753],True
+3352,25982,False,[1],False,40.0,False,[25],False,[5],True
+3353,21775,False,[32],False,46.0,False,[],False,[4],True
+3357,7480,False,[15],False,,False,[],False,[2],True
+3365,18504,False,[30],False,,False,[15],False,[3],True
+3366,15104,False,[60],False,,False,[40],False,[120],True
+3370,2364,False,"[2, 37]",False,37.0,False,[41],False,[40],True
+3373,30688,False,[3],False,,False,"[10, 20, 30, 40, 50]",False,"[20, 10, 10, 10, 10]",True
+3376,11144,False,[2],False,15.0,False,[],False,[5],True
+3381,19408,False,"[94, 3]",False,,False,[97],False,[37],True
+3383,19683,False,[],False,9.0,False,[],False,[6],True
+3384,3333,False,"[5, 12]",False,,False,[36],False,[1440],True
+3387,24149,False,[60],False,216.0,False,[216],False,[216],True
+3391,7510,False,[20],False,,False,[],False,[324],True
+3392,20907,False,[],False,,False,"[31, 31, 35]",False,[],True
+3394,20642,False,[6],False,8.0,False,[6],False,[6],True
+3404,28197,False,[61],False,,False,[],False,[41],True
+3411,6373,False,[11],False,,False,[],False,[1],True
+3413,12547,False,[11],False,,False,[],False,[11],True
+3419,15266,False,[40],False,,False,[98],False,[277],True
+3420,25550,False,[15],False,,False,[5],False,[15],True
+3428,5425,False,[2],False,2.0,False,[],False,[2],True
+3431,28009,False,[32],False,,False,[101],False,[132],True
+3433,2328,False,[980],False,990.0,False,[980],False,[],True
+3440,15209,False,[],False,,False,[12],False,[21],True
+3454,19562,False,[5],False,7.0,False,[8],False,[47],True
+3455,2291,False,[],False,,False,[],False,[25],True
+3459,27712,False,[37],False,,False,[45],False,[11],True
+3465,4492,False,[35],False,60.0,False,[80],False,[100],True
+3468,11288,False,[1],False,,False,[],False,[10],True
+3469,4945,False,[14800],False,8000.0,False,[1000],False,[],True
+3471,20476,False,[8],False,,False,[],False,[4],True
+3477,30039,False,[351],False,,False,[12],False,[14472],True
+3479,12491,False,[4],False,,False,[],False,[15],True
+3480,17557,False,[16],False,28.0,False,[9],False,[11],True
+3482,20118,False,[2],False,,False,[],False,[10],True
+3483,15302,False,"[3, 21]",False,,False,[21],False,[],True
+3485,17203,False,[1020],False,,False,[1440],False,[209],True
+3505,24983,False,[65],False,,False,[54],False,[18],True
+3507,25189,False,[10],False,214.0,False,[],False,[100],True
+3512,22209,False,[66],False,,False,[66],False,[],True
+3519,10523,False,[15],False,,False,[],False,[250],True
+3523,16603,False,[1],False,,False,[0],False,[0],True
+3533,4880,False,[7],False,,False,[],False,[],True
+3539,25937,False,[101],False,,False,[7],False,[300],True
+3543,16059,False,[30],False,,False,[30],False,[15],True
+3546,2903,False,[13],False,,False,[13],False,[],True
+3547,23111,False,[10],False,,False,[6],False,[2],True
+3550,8269,False,[33],False,,False,[46],False,[],True
+3559,55,False,[7],False,,False,[7],False,[],True
+3562,28576,False,[740],False,,False,[],False,[810],True
+3564,2140,False,"[198, 1]",False,,False,[72275],False,[100],True
+3565,1062,False,[9],False,,False,[],False,[],True
+3572,10814,False,[125],False,,False,[1],False,[80],True
+3573,27715,False,[2751],False,,False,[],False,[3],True
+3575,5096,False,[3],False,,False,[7],False,[45],True
+3578,2922,False,"[2333, 11667]",False,,False,[],False,[140],True
+3582,9811,False,[28],False,,False,[32],False,[32],True
+3583,7758,False,"[10000, 50, 15400]",False,,False,[],False,[154000],True
+3589,15946,False,[28],False,,False,[8],False,[250],True
+3591,16398,False,[250],False,1.0,False,[750],False,[2000],True
+3594,2895,False,[18],False,14.0,False,[],False,[],True
+3601,3797,False,[14],False,20.0,False,[],False,[14],True
+3606,22999,False,[6],False,,False,[48],False,[60],True
+3608,27019,False,[41],False,1.0,False,[5],False,[15],True
+3609,5986,False,"[715, 15]",False,210.0,False,[14],False,[15],True
+3611,9194,False,[14],False,,False,[],False,[12],True
+3622,30351,False,"[500, 175]",False,,False,[1125],False,[2],True
+3625,21064,False,[326],False,,False,[50],False,[226],True
+3629,27539,False,[7],False,44.0,False,[11],False,[20],True
+3637,9519,False,[3],False,,False,[3],False,[3],True
+3639,2636,False,[95],False,,False,[95],False,[124],True
+3648,8413,False,"[11, 2]",False,60.0,False,[9],False,[40],True
+3649,19967,False,[36],False,,False,[4],False,[15],True
+3652,5450,False,"[3605, 139]",False,9.0,False,[4],False,[2],True
+3654,17414,False,[11],False,,False,[],False,[10],True
+3658,5109,False,[360],False,,False,[],False,[225],True
+3659,2154,False,[2],False,,False,[],False,[2],True
+3661,9924,False,[1180],False,2500.0,False,[3900],False,[1800],True
+3662,21770,False,[17],False,,False,[10],False,[20],True
+3663,23795,False,[2],False,40.0,False,[2],False,[4800],True
+3667,27752,False,[10],False,,False,[8],False,[605],True
+3671,29884,False,[23000000],False,,False,[],False,[2400000],True
+3680,26189,False,[20],False,,False,[40],False,[20],True
+3681,30409,False,[1],False,,False,[],False,[10],True
+3683,30297,False,"[99, 48, 51, 54]",False,,False,[51],False,[102],True
+3687,3765,False,[89],False,4.0,False,[4],False,[15],True
+3700,21755,False,[5],False,,False,[5],False,[20],True
+3707,19052,False,[161],False,2.0,False,[2],False,[1610],True
+3708,10485,False,[3],False,2.0,False,[3],False,[3],True
+3711,25930,False,[2010],False,,False,[],False,[2717],True
+3712,27586,False,[100],False,,False,[],False,[100],True
+3717,11700,False,"[5, 23]",False,,False,[223],False,[],True
+3719,14354,False,[228],False,1.0,False,[],False,[20],True
+3724,2452,False,[15],False,,False,[13],False,[4],True
+3742,19963,False,[21000],False,630.0,False,[252],False,[25200],True
+3756,4118,False,"[2, 16]",False,22.0,False,[8],False,[],True
+3758,11971,False,[799],False,160.0,False,[119160],False,[3432],True
+3766,14868,False,[1],False,14.0,False,[],False,[14],True
+3769,22234,False,[24],False,13.0,False,[28],False,[],True
+3774,4847,False,"[5, 6, 2, 1000]",False,,False,[9990],False,[],True
+3784,6108,False,"[9525, 5000, 8000]",False,,False,[],False,[10],True
+3786,20158,False,[90],False,,False,[45],False,[240],True
+3793,7368,False,[32],False,,False,[],False,[12],True
+3798,26481,False,[2],False,,False,[20],False,[],True
+3799,24912,False,[6429],False,,False,[50],False,[20],True
+3804,22027,False,[],False,,False,[],False,[35],True
+3805,24388,False,[37],False,37.0,False,[27],False,[],True
+3810,21129,False,"[245, 6, 5]",False,,False,[195],False,[13],True
+3815,12959,False,[143],False,,False,[52],False,[2625],True
+3817,10601,False,[130],False,220.0,False,[140],False,[220],True
+3818,1857,False,[498],False,42.0,False,[346],False,[],True
+3824,26479,False,[12],False,,False,[6],False,[9],True
+3826,28141,False,[1150],False,,False,[],False,[10],True
+3831,23857,False,[1],False,400.0,False,[1965],False,[10875],True
+3850,30570,False,[58],False,,False,[],False,[2],True
+3859,28103,False,[1],False,12.0,False,[60],False,[10],True
+3862,27670,False,[13000],False,,False,[1000],False,[13],True
+3863,9409,False,[61],False,,False,[54],False,[2],True
+3864,23676,False,[375],False,4.0,False,[10],False,[25],True
+3865,27994,False,[302],False,,False,[16],False,[12],True
+3866,14704,False,[2],False,,False,[1],False,[134],True
+3871,26198,False,[650],False,,False,[65000],False,[700],True
+3872,7826,False,[10050],False,15.0,False,[356],False,[15],True
+3875,29369,False,"[28, 168]",False,168.0,False,[168],False,[28],True
+3877,21399,False,[6],False,12.0,False,[9],False,[11],True
+3878,15348,False,[17],False,,False,[1207],False,[39],True
+3882,28307,False,[8825],False,,False,[],False,[155],True
+3888,22423,False,"[18, 5]",False,,False,[2746],False,[126],True
+3890,27379,False,[21],False,,False,[41],False,[],True
+3899,5402,False,[208],False,103.0,False,[],False,[412],True
+3908,20166,False,[20],False,,False,[],False,[22],True
+3910,28449,False,[14],False,,False,[9],False,[11],True
+3911,17909,False,[16],False,,False,[],False,[688],True
+3912,3523,False,"[168, 354]",False,354.0,False,[984],False,[],True
+3915,23183,False,[400],False,,False,[400],False,[168],True
+3919,14578,False,[34],False,,False,[34],False,[12],True
+3920,14980,False,[121],False,,False,[2],False,[125],True
+3921,7773,False,[75],False,,False,[],False,[10],True
+3922,5586,False,[],False,,False,[],False,[1],True
+3923,5793,False,[898],False,850.0,False,[898],False,[1000],True
+3935,2495,False,[9],False,9.0,False,[],False,[19],True
+3936,29723,False,[88],False,240.0,False,[],False,[88],True
+3937,7920,False,[8],False,,False,[],False,[6],True
+3952,23045,False,[92],False,83.0,False,[106],False,[72],True
+3965,2396,False,[13],False,,False,[15],False,[],True
+3971,310,False,[23636],False,240.0,False,[],False,[350],True
+3974,24136,False,"[40, 3]",False,160.0,False,[20],False,[380],True
+3977,24363,False,"[7, 1225]",False,,False,[],False,[],True
+3980,7823,False,[9100],False,136.0,False,[],False,[17],True
+3987,22539,False,[5732],False,6.0,False,[],False,[7],True
+3990,6345,False,[150],False,,False,[150],False,[150],True
+3995,26644,False,[],False,,False,[],False,[5],True
+4001,22693,False,"[12, 50]",False,,False,[12],False,[23],True
+4006,28801,False,[72],False,10.0,False,[7],False,[10],True
+4010,22105,False,[],False,72.0,False,[30],False,[102],True
+4011,2289,False,[],False,,False,[41],False,[10],True
+4016,16813,False,[4],False,12.0,False,[4],False,[4],True
+4017,19155,False,[55],False,,False,[],False,[168],True
+4018,554,False,[1408],False,,False,[],False,[191],True
+4025,26756,False,[6],False,,False,[],False,[1000],True
+4027,24852,False,[387],False,,False,[385],False,[367],True
+4028,5615,False,[5],False,,False,[1],False,[6],True
+4033,25405,False,[1],False,,False,[13],False,[12],True
+4037,3350,False,[11],False,,False,[],False,[],True
+4043,27502,False,[5],False,,False,[4],False,[5],True
+4051,3383,False,"[163, 21, 3]",False,,False,[455],False,[1],True
+4065,15201,False,[52],False,,False,[2],False,[53],True
+4066,2818,False,[196020],False,,False,[460],False,[346],True
+4067,23022,False,[209],False,,False,[94],False,[1003],True
+4068,11183,False,[12],False,,False,[12],False,[1122],True
+4073,13783,False,[22],False,7.0,False,[40],False,[],True
+4077,15300,False,[3],False,14.0,False,[3],False,[15],True
+4082,20523,False,[2],False,5.0,False,[],False,[9],True
+4088,29421,False,"[10, 3]",False,13.0,False,[6],False,[30],True
+4090,16375,False,[5],False,45.0,False,[5],False,[5],True
+4094,30611,False,[4],False,154.0,False,[52],False,[10],True
+4103,14634,False,[241],False,,False,[125],False,[3],True
+4107,10740,False,"[3, 3]",False,,False,[40],False,[43],True
+4108,10084,False,[120],False,,False,[],False,[600],True
+4111,11774,False,[32],False,,False,[34],False,[45],True
+4114,27387,False,[2211],False,,False,[35],False,[12],True
+4116,12731,False,[42],False,,False,[],False,[12],True
+4126,28786,False,[41],False,,False,[2],False,[132],True
+4129,4270,False,[6],False,6.0,False,[6],False,[],True
+4130,27585,False,[5178],False,,False,[],False,[100],True
+4135,26663,False,[857142857],False,,False,[],False,[535875],True
+4136,10072,False,[7],False,5.0,False,[32],False,[3],True
+4141,19971,False,[60],False,,False,[14],False,[60],True
+4144,14914,False,"[2, 2]",False,,False,[],False,[10],True
+4147,7086,False,[950],False,,False,[1080],False,[10],True
+4149,22798,False,[],False,,False,[1200],False,[],True
+4150,13634,False,[19],False,8.0,False,[7],False,[12],True
+4153,20070,False,[16],False,,False,[38],False,[6],True
+4154,6980,False,"[6, 13]",False,25.0,False,[6],False,[11],True
+4155,5951,False,[3],False,,False,[],False,[1000],True
+4158,686,False,[14416],False,16423.0,False,[14335],False,[14637],True
+4165,5093,False,"[1, 2, 3, 54]",False,,False,[1998],False,[],True
+4169,23223,False,[4625],False,,False,[],False,[425],True
+4172,12964,False,[18],False,,False,[13],False,[16],True
+4173,15147,False,[42],False,,False,[28],False,[37],True
+4175,6996,False,[198],False,,False,[],False,[430],True
+4180,28472,False,[146],False,40.0,False,[100],False,[16],True
+4182,25854,False,[],False,,False,[38889],False,[44444],True
+4186,2583,False,[4],False,,False,[],False,[],True
+4188,18931,False,[3571],False,,False,[3500],False,[500],True
+4190,27061,False,"[12, 25]",False,,False,[20],False,[30],True
+4195,4476,False,[14233],False,,False,[1427],False,[1423],True
+4196,12709,False,[1611],False,,False,[11],False,[11],True
+4198,14597,False,[45],False,13.0,False,[],False,[3],True
+4199,6550,False,[76],False,10.0,False,[12],False,[2],True
+4202,20645,False,"[5, 525]",False,,False,[525],False,[1667],True
+4206,24221,False,[2],False,2.0,False,[],False,[1],True
+4218,8369,False,[37],False,,False,[32],False,[36],True
+4219,5129,False,"[120, 40]",False,120.0,False,[],False,[54],True
+4221,16280,False,[30],False,10.0,False,[30],False,[33],True
+4222,10507,False,[42],False,,False,[],False,[7],True
+4229,15451,False,[6],False,,False,[9],False,[11],True
+4231,16457,False,[15],False,4.0,False,[15],False,[50],True
+4234,21166,False,[267],False,,False,[240],False,[],True
+4235,27317,False,[20],False,,False,[16],False,[16],True
+4247,3200,False,[9],False,9.0,False,[],False,[19],True
+4252,26973,False,[200],False,,False,[20],False,[],True
+4261,7251,False,[40],False,25.0,False,[10],False,[50],True
+4262,19839,False,[1650],False,9570.0,False,[57950],False,[193430],True
+4263,23359,False,[61100],False,,False,[310],False,[1725],True
+4264,10397,False,[15],False,,False,[15],False,[6],True
+4267,1334,False,"[11, 29]",False,42.0,False,[55],False,[],True
+4269,30478,False,[12],False,,False,[12],False,[884584],True
+4272,15471,False,[4],False,3.0,False,[0],False,[4],True
+4273,3646,False,[],False,,False,[],False,[],True
+4282,9261,False,[5145],False,,False,[0],False,[2415],True
+4283,9824,False,[6],False,,False,[7],False,[11],True
+4287,1960,False,[60],False,60.0,False,[],False,[],True
+4290,30241,False,[31],False,,False,[32],False,[],True
+4291,20198,False,[30],False,,False,[8],False,[10],True
+4295,16945,False,[34],False,,False,[34],False,[34],True
+4301,8189,False,[10],False,39.0,False,[61],False,[],True
+4308,5884,False,[13],False,2700.0,False,[],False,[],True
+4309,28317,False,"[8, 3]",False,,False,[2],False,[5],True
+4311,312,False,"[1000, 100, 4, 2, 5, 542]",False,3.0,False,[4],False,[135],True
+4317,24892,False,[2],False,2.0,False,[2],False,[0],True
+4319,29925,False,[11],False,4.0,False,[],False,[3116],True
+4324,29217,False,[14],False,,False,[14],False,[58],True
+4327,23908,False,[11],False,6.0,False,[],False,[16],True
+4331,4266,False,"[180, 2]",False,174.0,False,[2],False,[7],True
+4333,23494,False,[],False,,False,[1050],False,[1000],True
+4338,11731,False,[12000],False,207.0,False,[122],False,[22],True
+4346,6677,False,"[3, 60]",False,15.0,False,[3],False,[20],True
+4351,12316,False,[45],False,,False,[25],False,[550],True
+4352,23342,False,[6],False,,False,[24],False,[6],True
+4364,28446,False,[88],False,,False,[93],False,[31],True
+4365,17783,False,[33],False,,False,[39],False,[16],True
+4366,13779,False,[56667],False,,False,[400],False,[290],True
+4375,27761,False,[],False,,False,[40],False,[15],True
+4385,27121,False,[150],False,,False,[50],False,[50],True
+4395,16069,False,[555],False,1000.0,False,[1000],False,[81667],True
+4409,30258,False,[1112],False,,False,[12],False,[],True
+4410,945,False,"[2, 146625]",False,,False,[1285],False,[84],True
+4414,12736,False,[136],False,,False,[],False,[13],True
+4415,6281,False,[636],False,,False,[10],False,[1167],True
+4418,788,False,"[4, 72, 120, 24]",False,,False,[6],False,[],True
+4427,21869,False,[12],False,6.0,False,[24],False,[18],True
+4432,3013,False,"[45, 78]",False,,False,[12],False,[20],True
+4433,12391,False,[11],False,,False,[15],False,[14],True
+4440,10272,False,[50],False,11.0,False,[50],False,[35],True
+4443,19075,False,[71],False,,False,[71],False,[96],True
+4452,30267,False,"[15, 5, 5]",False,10.0,False,[3],False,[50],True
+4464,4255,False,[17142857],False,,False,[383313],False,[1601],True
+4465,12318,False,[3819],False,,False,[],False,[2819],True
+4471,Q-1234,False,[7],False,9.0,False,[3],False,[8],True
+4478,12429,False,[15],False,,False,[113],False,[8],True
+4479,20458,False,[5],False,12.0,False,[11],False,[5],True
+4492,1672,False,[20],False,30.0,False,[20],False,[20],True
+4505,27286,False,[5625],False,,False,[],False,[24],True
+4512,5539,False,"[25, 1]",False,,False,[2110],False,[36],True
+4513,5411,False,"[16, 4]",False,24.0,False,[],False,[1],True
+4515,8550,False,[],False,,False,[36],False,[10],True
+4519,20850,False,[12099875],False,,False,[125],False,[1250],True
+4524,716,False,[1],False,,False,[1],False,[60],True
+4526,29690,False,[10],False,1200.0,False,[30],False,[180],True
+4531,7077,False,[90],False,,False,[3647],False,[15],True
+4539,10686,False,[151],False,,False,[2],False,[2110],True
+4541,15619,False,[150],False,15.0,False,[2],False,[0],True
+4542,17456,False,"[100000, 20, 5000]",False,,False,[800],False,[600],True
+4548,5967,False,[4],False,5.0,False,[2],False,[2],True
+4556,24500,False,[5],False,100.0,False,[12],False,[27],True
+4560,16306,False,[56],False,,False,[56],False,[16],True
+4565,28031,False,"[4, 59375]",False,500.0,False,[50],False,[6250],True
+4568,23556,False,[6],False,,False,[],False,[75],True
+4570,1933,False,[8],False,,False,[],False,[],True
+4572,28499,False,[255],False,19.0,False,[5],False,[15],True
+4575,7372,False,[30],False,,False,[],False,[100],True
+4577,22628,False,[20],False,,False,[],False,[10],True
+4580,20427,False,"[2, 375, 75]",False,150.0,False,[1],False,[150],True
+4585,12554,False,[12],False,,False,[],False,[294],True
+4587,25823,False,[20],False,24.0,False,[3],False,[],True
+4588,26113,False,[9],False,13.0,False,[4],False,[10],True
+4590,25313,False,[1350],False,,False,[1467],False,[15],True
+4599,29093,False,[7245],False,,False,[255],False,[1000],True
+4607,21503,False,[978],False,,False,[100],False,[34],True
+4609,30347,False,[200],False,80.0,False,[40],False,[33],True
+4614,15313,False,"[6, 8, 75]",False,,False,[4],False,[],True
+4619,25179,False,[13],False,,False,[5],False,[7],True
+4634,9100,False,[15],False,21.0,False,[],False,[10],True
+4637,22847,False,[25],False,310.0,False,[],False,[103],True
+4643,3885,False,"[13, 15]",False,8.0,False,[2],False,[2],True
+4653,2070,False,[6],False,,False,[8],False,[],True
+4660,20472,False,"[16, 23, 2]",False,,False,[14],False,[752],True
+4661,12283,False,[],False,1.0,False,[],False,[21],True
+4662,441,False,"[1, 6, 8, 861]",False,861.0,False,[],False,[],True
+4665,9205,False,[75],False,,False,[524],False,[12],True
+4676,21880,False,"[302, 183]",False,,False,[30],False,[10000],True
+4682,29042,False,[11],False,,False,[],False,[],True
+4684,548,False,[4],False,12.0,False,[],False,[5],True
+4686,29682,False,[4],False,4.0,False,[4],False,[1],True
+4689,1230,False,"[5, 30]",False,10.0,False,[50],False,[],True
+4690,11690,False,"[3, 13]",False,12.0,False,[103],False,[12666],True
+4701,11701,False,[31],False,2.0,False,[52],False,[54],True
+4703,25660,False,[],False,12.0,False,[40],False,[10],True
+4705,26498,False,[6],False,12.0,False,[8],False,[10],True
+4706,12355,False,[18],False,2.0,False,[14],False,[140],True
+4708,23560,False,[114],False,,False,[430],False,[1189],True
+4713,13039,False,[3],False,6.0,False,[4],False,[158],True
+4715,11662,False,[15],False,,False,[7],False,[],True
+4725,6355,False,[],False,,False,[],False,[],True
+4735,4087,False,[100],False,,False,[],False,[10],True
+4742,5202,False,[24],False,,False,[24],False,[],True
+4747,17941,False,[650],False,,False,[650],False,[],True
+4749,20857,False,"[104, 8]",False,14.0,False,[5],False,[140],True
+4750,6399,False,[960],False,,False,[3],False,[41],True
+4751,2416,False,[233243],False,67.0,False,[36693877551],False,[112],True
+4758,17764,False,[15],False,,False,[110],False,[102],True
+4760,30601,False,"[15, 10, 10]",False,,False,[4],False,[147],True
+4761,6040,False,[9],False,25.0,False,[],False,[11],True
+4763,19613,False,[200],False,40.0,False,[200],False,[400],True
+4765,1516,False,[71],False,31.0,False,[71],False,[71],True
+4769,867,False,[3],False,,False,[1],False,[12],True
+4771,21533,False,[],False,,False,[2],False,[10],True
+4774,3501,False,[6],False,,False,[],False,[],True
+4775,11469,False,[298],False,301.0,False,[],False,[225],True
+4783,1893,False,[8],False,4.0,False,[],False,[],True
+4784,22945,False,[140],False,7.0,False,[62],False,[12],True
+4797,10631,False,[4],False,,False,[],False,[10],True
+4804,26193,False,[65000],False,,False,[55000],False,[100],True
+4806,10104,False,[24],False,,False,[5],False,[14],True
+4807,16811,False,[5],False,50.0,False,[],False,[55],True
+4817,30705,False,[83],False,,False,[10],False,[],True
+4824,7038,False,[1200],False,,False,[1200],False,[54],True
+4827,17206,False,[4950],False,,False,[],False,[24],True
+4835,11871,False,[],False,108.0,False,[],False,[24],True
+4842,1495,False,[1014],False,384.0,False,[13523],False,[1024],True
+4865,2306,False,[120],False,,False,[],False,[500],True
+4873,17234,False,[875],False,85.0,False,[],False,[],True
+4874,19146,False,[8],False,2.0,False,[1],False,[],True
+4877,1831,False,[1134],False,,False,[941],False,"[7, 23]",True
+4878,11841,False,[43200],False,,False,[7200],False,[86600],True
+4883,10114,False,[408],False,,False,[],False,[],True
+4884,25061,False,[5],False,,False,[8],False,[10],True
+4887,15533,False,[21],False,,False,[21],False,[76095],True
+4891,4592,False,"[1040, 5, 8, 2]",False,,False,[24],False,[],True
+4903,34,False,[4],False,120.0,False,[120],False,[120],True
+4906,30410,False,[5],False,10.0,False,[],False,[10],True
+4929,23457,False,[112],False,,False,[],False,[32],True
+4930,6033,False,"[18, 300, 4, 10]",False,,False,[200],False,[120],True
+4932,13193,False,[80],False,,False,[60],False,[100],True
+4934,28500,False,[41100],False,,False,[310],False,[320],True
+4937,18624,False,[6],False,12.0,False,[6],False,[2],True
+4939,7833,False,"[3, 1225]",False,,False,[5],False,[25],True
+4943,10466,False,[300301],False,,False,[45],False,[115],True
+4944,2747,False,"[31, 28, 87]",False,59.0,False,[90],False,[],True
+4945,26466,False,[10],False,25.0,False,[],False,[50],True
+4952,13854,False,[500],False,,False,[520],False,[580],True
+4967,10150,False,[8],False,45.0,False,[328],False,[16],True
+4968,17261,False,[700],False,405.0,False,[300],False,[350],True
+4969,13703,False,[60],False,125.0,False,[],False,[20],True
+4984,1604,False,[15],False,,False,[],False,[],True
+4989,26540,False,[142000],False,,False,[154700],False,[130000],True
+4991,17632,False,[2],False,17.0,False,[15],False,[],True
+4992,19068,False,[3],False,,False,[34],False,[1360000],True
+4996,14690,False,[11],False,,False,[32],False,[116],True
+5001,1806,False,"[48, 200, 0, 1, 3, 5, 6]",False,60.0,False,[48],False,[],True
+5002,13885,False,[10],False,150.0,False,[],False,[525],True
+5004,4049,False,"[128, 16]",False,240.0,False,[48],False,[],True
+5005,20725,False,[4],False,,False,[8],False,[14],True
+5012,23062,False,[205],False,1.0,False,[],False,[4183],True
+5023,8909,False,[50],False,,False,[11],False,[90],True
+5024,9588,False,[],False,18.0,False,[6],False,[6],True
+5027,11930,False,[5],False,4.0,False,[4],False,[5],True
+5032,7036,False,[21],False,8.0,False,[],False,[],True
+5041,5081,False,[1320],False,,False,[29997],False,[],True
+5049,9108,False,[30],False,28.0,False,[],False,[70],True
+5052,22649,False,[135],False,,False,[100],False,[0],True
+5056,2494,False,"[1, 3, 3, 100]",False,10.0,False,[0],False,[18],True
+5069,28424,False,[150],False,300.0,False,[600],False,[],True
+5070,19589,False,[100],False,60.0,False,[75],False,[],True
+5071,24592,False,[12],False,9.0,False,[6],False,[37],True
+5073,30309,False,[45],False,1.0,False,[85],False,[651],True
+5077,20567,False,[],False,,False,[2],False,[10],True
+5080,10875,False,[4],False,,False,[4],False,[4],True
+5084,23145,False,[16],False,20.0,False,[28],False,[7600],True
+5085,29536,False,[],False,,False,[500],False,[208],True
+5089,1042,False,[35],False,2.0,False,[5],False,[],True
+5091,15311,False,"[13, 6]",False,,False,[75],False,[12],True
+5093,24951,False,[],False,,False,[],False,[1710],True
+5097,111,False,[84],False,,False,[772],False,[],True
+5104,10004,False,[31],False,,False,[2],False,[1114],True
+5113,24944,False,[80],False,,False,[1080],False,[1920],True
+5114,12503,False,"[11, 60]",False,495.0,False,[255],False,[15],True
+5119,7141,False,[456],False,,False,[24],False,[17],True
+5121,469,False,"[6, 5]",False,,False,[5],False,[5],True
+5127,3641,False,[812],False,,False,[],False,[36],True
+5132,7413,False,[59],False,,False,[],False,[100],True
+5136,25733,False,[270],False,150.0,False,[270],False,[150],True
+5137,3224,False,[],False,,False,"[16, 2]",False,[],True
+5143,24618,False,[1],False,,False,[23],False,[316],True
+5145,10365,False,[31],False,,False,[99],False,[],True
+5147,18627,False,[24],False,,False,[24],False,[15],True
+5152,15206,False,[],False,,False,[5],False,[14],True
+5153,17294,False,[100],False,,False,[0],False,[417],True
+5158,15087,False,"[885, 3, 50]",False,2035.0,False,[],False,[2850],True
+5159,26063,False,[628571],False,,False,[],False,[18000],True
+5160,5058,False,"[12, 2, 4]",False,8.0,False,[6],False,[],True
+5163,536,False,[203],False,10.0,False,[20],False,[],True
+5167,27746,False,[7],False,,False,[],False,[15],True
+5171,23934,False,[40],False,,False,[40],False,[60],True
+5172,19473,False,[11],False,,False,[],False,[],True
+5176,7531,False,"[5, 5]",False,39.0,False,[11],False,[19],True
+5183,9548,False,[74],False,,False,[163],False,[136],True
+5184,26166,False,[61],False,,False,[4667],False,[16],True
+5191,28201,False,[80],False,,False,[],False,[100],True
+5193,12585,False,[72],False,,False,[100],False,[300],True
+5197,26940,False,[5],False,,False,[27],False,[15],True
+5202,27734,False,[25520],False,,False,[75],False,[198],True
+5211,8931,False,[166],False,720.0,False,[196],False,[37500],True
+5217,23273,False,[195],False,16.0,False,[1316],False,[310],True
+5218,30344,False,"[5, 6, 35]",False,,False,[3],False,[2],True
+5221,12520,False,[11],False,,False,[],False,[131],True
+5227,17438,False,[10852],False,,False,[4000],False,[1704],True
+5228,27949,False,"[40, 2]",False,,False,[2],False,[3],True
+5234,14164,False,"[2, 36]",False,,False,[365],False,[4],True
+5238,25505,False,[2],False,,False,[2],False,[175],True
+5240,30284,False,[35634],False,,False,[],False,[142857],True
+5241,13043,False,[13],False,,False,[4927],False,[8],True
+5246,5308,False,[10],False,,False,[42],False,[107],True
+5251,29878,False,[20],False,7.0,False,[20],False,[17],True
+5252,25474,False,[5],False,,False,[5],False,[8],True
+5254,7370,False,"[7, 50]",False,13.0,False,[7],False,[7],True
+5257,14779,False,[18],False,11.0,False,[18],False,[15],True
+5260,14754,False,"[10, 8]",False,19.0,False,[25],False,[2],True
+5261,8734,False,[15],False,,False,[15],False,[5],True
+5264,5123,False,[40],False,40.0,False,[],False,[40],True
+5269,25709,False,[345],False,,False,[310],False,[],True
+5272,28265,False,[4],False,,False,[10],False,[23],True
+5277,18799,False,"[11, 15]",False,,False,[11],False,[18],True
+5278,20939,False,[241],False,,False,[1710],False,[53],True
+5285,3403,False,[],False,,False,[160],False,[],True
+5292,6642,False,[1],False,,False,[],False,[2],True
+5297,20465,False,[8],False,,False,[],False,[12],True
+5304,15151,False,"[25, 47]",False,65.0,False,[47],False,[56],True
+5305,4173,False,[20],False,,False,[],False,[24],True
+5312,5622,False,[120],False,15.0,False,[120],False,[120],True
+5316,8694,False,[60],False,,False,[24],False,[20],True
+5319,8765,False,[],False,,False,[2],False,[1923],True
+5322,12421,False,"[8, 10, 6]",False,,False,[15],False,[15],True
+5340,2849,False,[14],False,28.0,False,[420],False,[],True
+5344,28680,False,[500],False,,False,[980],False,[1000],True
+5348,29238,False,[851],False,,False,[40],False,[1610],True
+5349,10000,False,"[16, 3]",False,24.0,False,[28],False,[],True
+5353,20317,False,[10204],False,,False,[100],False,[106],True
+5354,95,False,[28],False,27.0,False,[],False,[],True
+5357,24094,False,[12],False,12.0,False,[4],False,[12],True
+5358,13962,False,[139],False,,False,[57],False,[],True
+5360,25206,False,[171],False,20.0,False,[4929],False,[47],True
+5372,23194,False,[8500],False,,False,[950],False,[8450],True
+5374,1523,False,[8],False,,False,[120],False,[24],True
+5378,13394,False,[33],False,,False,[],False,[32],True
+5385,29069,False,[6],False,62.0,False,[14],False,[5],True
+5400,8124,False,[30],False,,False,[30],False,[20],True
+5408,29447,False,[4],False,4.0,False,[35],False,[288],True
+5411,1707,False,[189256],False,28.0,False,[252],False,[84],True
+5419,15321,False,[150],False,,False,[],False,[2990],True
+5428,2797,False,[78],False,,False,[75],False,[75],True
+5438,7098,False,"[2017, 2019, 2]",False,2.0,False,[],False,[],True
+5442,509,False,[288],False,72.0,False,[288],False,[24],True
+5451,956,False,"[1, 200, 365]",False,,False,[],False,[],True
+5453,1680,False,"[2, 1]",False,,False,[3],False,[2],True
+5458,11176,False,[4],False,,False,[4],False,[8],True
+5468,10449,False,[3],False,1.0,False,[5],False,[],True
+5487,3849,False,[217],False,9.0,False,[217],False,[],True
+5490,30406,False,[5],False,8.0,False,[5],False,[8],True
+5493,6962,False,[5000],False,,False,[],False,[4372],True
+5494,29727,False,[10],False,,False,[],False,[20],True
+5496,343,False,"[70, 5]",False,,False,[70],False,[50],True
+5500,question_2,False,"[5, 2]",False,,False,[3],False,[0],True
+5502,9160,False,[1940],False,,False,[],False,[],True
+5505,23322,False,[154],False,,False,[1527],False,[42],True
+5507,28838,False,[],False,,False,[],False,[3],True
+5513,13221,False,[41],False,1232.0,False,[123],False,[1240001000],True
+5515,26535,False,[21],False,10.0,False,[14],False,[17],True
+5517,20845,False,"[5, 50, 2800000]",False,,False,[],False,[20],True
+5522,18722,False,[6336],False,288.0,False,[],False,[5760],True
+5526,29830,False,[2000],False,,False,[],False,[2400],True
+5527,674,False,[3],False,,False,[],False,[7],True
+5528,13111,False,"[6, 18]",False,,False,[11],False,[18],True
+5529,9981,False,[61],False,1.0,False,[11],False,[3],True
+5530,4077,False,[175],False,9.0,False,[2112],False,[],True
+5533,25987,False,[37],False,130.0,False,[3717],False,[160],True
+5543,15095,False,[3],False,,False,[4912],False,[105],True
+5547,29496,False,[75],False,,False,[],False,[150],True
+5549,12437,False,[152],False,160.0,False,[152],False,[30],True
+5551,3466,False,[15],False,19000.0,False,[],False,[0],True
+5553,4940,False,[156],False,,False,[],False,[33],True
+5556,4714,False,[],False,,False,[],False,[],True
+5561,28487,False,[180],False,,False,[72],False,[180],True
+5568,21961,False,"[95, 10]",False,30.0,False,[],False,[],True
+5571,9754,False,[432],False,,False,[],False,[5300],True
+5584,29483,False,[1333],False,75.0,False,[5333],False,[53],True
+5585,16447,False,[2],False,6.0,False,[2],False,[10],True
+5587,1704,False,[138],False,,False,[],False,[100],True
+5591,1462,False,[160],False,80.0,False,[140],False,[50],True
+5593,9810,False,[49],False,,False,[91],False,[13],True
+5601,26806,False,[0],False,52.0,False,[9],False,[],True
+5602,13219,False,[289333],False,3200.0,False,[20000],False,[9200],True
+5608,17013,False,[10],False,4.0,False,[4],False,[4],True
+5610,20142,False,[2],False,,False,[5],False,[9],True
+5617,1772,False,[1875],False,,False,[],False,[500],True
+5621,17624,False,"[19, 357]",False,285.0,False,[285],False,[270],True
+5624,886,False,"[18, 3]",False,29.0,False,[],False,[19],True
+5626,14871,False,[29],False,,False,[30],False,[1886],True
+5629,714,False,[333],False,,False,[30],False,[],True
+5633,7735,False,"[10, 30]",False,,False,[266],False,[200],True
+5635,8448,False,[416],False,,False,[12],False,[12],True
+5638,26800,False,[75],False,60.0,False,[75],False,[60],True
+5641,27566,False,[378],False,,False,[],False,[47],True
+5656,29074,False,"[105, 21]",False,,False,[425],False,[41],True
+5661,23787,False,[7826],False,250.0,False,[225],False,[1125],True
+5668,24440,False,[4],False,,False,[105],False,[1],True
+5670,14747,False,[130],False,,False,[],False,[15],True
+5679,10695,False,[35],False,,False,[],False,[],True
+5685,11467,False,[1],False,,False,[5],False,[],True
+5689,27806,False,[140],False,,False,[],False,[1900],True
+5695,10319,False,[28],False,,False,[26],False,[],True
+5699,27373,False,[225],False,9.0,False,[],False,[9],True
+5706,22202,False,[19],False,,False,[],False,[],True
+5708,16575,False,[255],False,,False,"[3, 34]",False,[222],True
+5710,3895,False,[87460],False,87647.0,False,[87640],False,[],True
+5712,2599,False,[],False,,False,[],False,[],True
+5714,19920,False,[53],False,,False,[1637],False,[10],True
+5715,8450,False,[9],False,10.0,False,[9],False,[5],True
+5718,16436,False,[],False,,False,[245],False,[280],True
+5726,2390,False,[60],False,120.0,False,[120],False,[80],True
+5727,23723,False,[99],False,296.0,False,[99],False,[12],True
+5730,26559,False,[6],False,,False,[6],False,[123],True
+5735,15979,False,[72],False,,False,[4],False,[2316],True
+5743,6343,False,[110],False,40.0,False,[110],False,[110],True
+5748,3803,False,"[4, 10, 1000]",False,,False,[],False,[],True
+5753,8452,False,[6],False,,False,[],False,[64],True
+5755,19606,False,[720],False,,False,[720],False,[69],True
+5758,456,False,[3],False,6.0,False,[3],False,[3],True
+5762,24566,False,[80],False,,False,[],False,[2],True
+5765,9708,False,[2],False,,False,[15],False,[6],True
+5771,8086,False,"[4, 60]",False,12.0,False,[15],False,[10],True
+5780,8096,False,[33],False,,False,[27],False,[14],True
+5784,25839,False,[4],False,8.0,False,[9],False,[8],True
+5788,26218,False,"[2, 60]",False,,False,[73],False,[325],True
+5789,25006,False,[3],False,,False,[3],False,[10],True
+5794,2556,False,[48],False,30.0,False,[60],False,[],True
+5796,8905,False,[51],False,,False,[30],False,[],True
+5800,27563,False,[4],False,,False,[1725],False,[2313],True
+5803,4884,False,[6360],False,,False,[1200],False,[1130],True
+5807,14954,False,[],False,,False,[2],False,[35],True
+5821,14075,False,[80],False,,False,[],False,[14],True
+5823,13936,False,[5250],False,,False,[],False,[75],True
+5827,5774,False,"[200, 15, 6, 30, 60, 90, 120, 150]",False,,False,[6],False,[],True
+5832,8578,False,[27920],False,,False,[190],False,[150],True
+5853,24611,False,[5],False,,False,[11],False,[30],True
+5855,13182,False,[5263],False,,False,[],False,[20],True
+5856,14912,False,[77141],False,7.0,False,[227],False,[],True
+5857,16651,False,[360],False,,False,[],False,[203],True
+5866,17297,False,[221640],False,,False,[2317],False,[6115],True
+5869,25359,False,[7],False,2.0,False,[0],False,[2],True
+5872,14466,False,[18],False,,False,[22],False,[12],True
+5878,2091,False,[24],False,24.0,False,[],False,[],True
+5882,7148,False,[34],False,,False,[102],False,[104],True
+5896,3894,False,"[8, 12, 21, 84]",False,,False,[2772],False,[],True
+5902,1945,False,[8921],False,61290.0,False,[],False,[],True
+5905,8914,False,[9],False,,False,[45],False,[10],True
+5909,24365,False,[37],False,,False,[40],False,[12],True
+5910,26579,False,"[40, 20, 12]",False,10.0,False,[],False,[30],True
+5913,24161,False,[51],False,4.0,False,[3],False,[2],True
+5916,20768,False,[8],False,3.0,False,[9],False,[8],True
+5919,15058,False,[200000],False,,False,[],False,[3],True
+5920,11707,False,"[25, 42]",False,37.0,False,[24],False,[34],True
+5921,3821,False,"[345, 8]",False,,False,[],False,[18],True
+5922,24354,False,[10],False,4.0,False,[16],False,[10],True
+5933,12356,False,[35],False,,False,[4],False,[24],True
+5939,13416,False,[10],False,2.0,False,[10],False,[],True
+5940,21569,False,[104],False,52.0,False,[41],False,[22],True
+5941,20993,False,[27],False,,False,[33],False,[49],True
+5943,6360,False,[80],False,,False,[50],False,[50],True
+5947,22618,False,[1],False,,False,[],False,[1],True
+5951,17539,False,[36],False,,False,[8],False,[],True
+5953,7083,False,[40],False,,False,[110],False,[1],True
+5954,11427,False,[140],False,10.0,False,[30],False,[130],True
+5956,5160,False,"[120, 5]",False,120.0,False,[120],False,[],True
+5962,2911,False,[24],False,25.0,False,[37],False,[10],True
+5963,23581,False,[5],False,100.0,False,[1],False,[2],True
+5965,19988,False,[20],False,,False,[],False,[8],True
+5970,5221,False,[4400],False,,False,[400],False,[],True
+5974,11825,False,[140],False,45.0,False,[11],False,[65],True
+5977,25782,False,[4],False,12.0,False,[1],False,[3],True
+5980,22789,False,[5],False,,False,[40],False,[],True
+5981,10362,False,[],False,18.0,False,[3],False,[40],True
+5985,22547,False,[740],False,,False,[290],False,[980],True
+5994,13596,False,"[124, 3]",False,,False,[18],False,[1144],True
+6006,6265,False,[11],False,95.0,False,[15],False,[],True
+6007,10354,False,[5],False,5.0,False,[],False,[5],True
+6013,4941,False,[87],False,,False,[1],False,[0],True
+6017,5848,False,"[33, 2]",False,88.0,False,[14],False,[8],True
+6024,15767,False,[7125],False,110.0,False,[90],False,[],True
+6026,5912,False,[12],False,9.0,False,[],False,[],True
+6029,16141,False,"[5, 5]",False,,False,[30],False,[],True
+6031,7144,False,"[44, 75]",False,12.0,False,[47],False,[9],True
+6034,14990,False,[6111],False,,False,[52],False,[0],True
+6036,29178,False,[4],False,,False,[4],False,[1],True
+6045,2372,False,[98],False,4.0,False,[396],False,[1],True
+6047,28404,False,[75],False,,False,[10],False,[10],True
+6050,27687,False,[330],False,,False,[118],False,[100],True
+6051,8353,False,[22],False,10.0,False,[],False,[10],True
+6053,9687,False,[940],False,480.0,False,[15],False,[593333],True
+6054,1770,False,[],False,,False,[],False,[],True
+6060,21531,False,[24],False,,False,[],False,[6],True
+6071,4892,False,[98340],False,,False,[98430],False,[98430],True
+6073,7130,False,[68],False,,False,[103],False,[60],True
+6088,3262,False,"[9, 14655]",False,,False,[1454],False,[13293],True
+6090,3996,False,"[3, 0, 2, 5, 7, 23]",False,,False,[203],False,[],True
+6095,1288,False,"[25, 4, 5]",False,20.0,False,[45],False,[],True
+6099,12393,False,[474],False,165.0,False,[],False,[496],True
+6105,14685,False,[6],False,,False,[],False,[93],True
+6110,6063,False,[6660],False,5400.0,False,[],False,[33448],True
+6113,7997,False,[84],False,,False,[],False,[52],True
+6115,7834,False,[12],False,7.0,False,[48],False,[],True
+6123,8627,False,[61],False,,False,[],False,[],True
+6124,492,False,[591],False,71.0,False,[65],False,[],True
+6129,28328,False,[39],False,,False,[6],False,[16],True
+6132,12723,False,[65],False,,False,[20],False,[65],True
+6133,30762,False,[50],False,,False,[],False,[27],True
+6134,24386,False,[451],False,275.0,False,[],False,[400900],True
+6138,13436,False,[51],False,4.0,False,[12],False,[12],True
+6148,3246,False,[4],False,11.0,False,[3],False,[6],True
+6150,24214,False,"[2, 1, 31]",False,,False,[31],False,[4],True
+6173,24952,False,[32],False,,False,[51],False,[41],True
+6187,16329,False,"[3, 7]",False,,False,[1],False,[1],True
+6189,24714,False,[110],False,2.0,False,[179],False,[21],True
