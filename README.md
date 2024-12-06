@@ -1,31 +1,7 @@
-# cs6220_math_group2
+# LLEMMA Branch
+**Owner:** Michael Hu
 
-## Processed SAT Math Dataset: train and test splits
-sat_math_dict = load_dataset("knazarali3/group2_processed_sat_math_cot")
-```
-DatasetDict({
-    train: Dataset({
-        features: ['id', 'question', 'answer', 'is_correct', 'correct_reasoning_chain', 'index'],
-        num_rows: 25158
-    })
-    test: Dataset({
-        features: ['id', 'question', 'answer', 'is_correct', 'correct_reasoning_chain', 'index'],
-        num_rows: 6290
-    })
-})
-```
+**Model Fine-tuned:** https://huggingface.co/unsloth/Qwen2.5-Math-7B-Instruct-bnb-4bit
 
-## Competition Math Dataset: train and test splits
-competition_math_dict = load_dataset("jeggers/competition_math", "original")
-```
-DatasetDict({
-    train: Dataset({
-        features: ['problem', 'level', 'type', 'solution', 'extracted_solution'],
-        num_rows: 7500
-    })
-    test: Dataset({
-        features: ['problem', 'level', 'type', 'solution', 'extracted_solution'],
-        num_rows: 5000
-    })
-})
-```
+**Branch Files:**
+*  
