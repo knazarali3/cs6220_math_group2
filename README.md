@@ -1,29 +1,10 @@
-# cs6220_math_group2
+# LLEMMA Branch
+**Owner:** Meredith Rush
 
-SAT Math Dataset from HuggingFace; We only take questions with correct solutions.
-80% Train 10% Test 10% Validation
+**Model Fine-tuned:** https://huggingface.co/EleutherAI/llemma_7b
 
-To load dataset,
-```
-from datasets import load_from_disk
-
-sat_math_datasets_splits = load_from_disk('sat-math-datasets-splits')
-print(sat_math_datasets_splits)
-```
-
-```
-DatasetDict({
-    train: Dataset({
-        features: ['id', 'question', 'reasoning_chain', 'answer', 'is_correct'], 
-        num_rows: 29244
-    }) 
-    test: Dataset({ 
-        features: ['id', 'question', 'reasoning_chain', 'answer', 'is_correct'],
-        num_rows: 1625
-    }) 
-    valid: Dataset({
-        features: ['id', 'question', 'reasoning_chain', 'answer', 'is_correct'],  
-        num_rows: 1625
-    }) 
-})
-```
+**Branch Files:**
+* LLEMMA.ipynb - Jupyter notebook used to fine-tune and test LLEMMA
+* Dataset_Metrics.ipynb - Jupyter notebook that contains analysis on the two datasets used for fine-tuning
+* Inference.ipynb - Jupyter notebook that contains analysis on the testing results from all four models
+* inference_files - folder containing the raw outputs from testing LLEMMA 
