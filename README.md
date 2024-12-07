@@ -1,31 +1,8 @@
 # cs6220_math_group2
 
-## Processed SAT Math Dataset: train and test splits
-sat_math_dict = load_dataset("knazarali3/group2_processed_sat_math_cot")
-```
-DatasetDict({
-    train: Dataset({
-        features: ['id', 'question', 'answer', 'is_correct', 'correct_reasoning_chain', 'index'],
-        num_rows: 25158
-    })
-    test: Dataset({
-        features: ['id', 'question', 'answer', 'is_correct', 'correct_reasoning_chain', 'index'],
-        num_rows: 6290
-    })
-})
-```
+## Analysis SAT
+Contains files for analyzing the ensemble model on the SAT dataset. Contains all of the extracted answers/outputs for each model as well as a notebook with
+analysis code and other features.
 
-## Competition Math Dataset: train and test splits
-competition_math_dict = load_dataset("jeggers/competition_math", "original")
-```
-DatasetDict({
-    train: Dataset({
-        features: ['problem', 'level', 'type', 'solution', 'extracted_solution'],
-        num_rows: 7500
-    })
-    test: Dataset({
-        features: ['problem', 'level', 'type', 'solution', 'extracted_solution'],
-        num_rows: 5000
-    })
-})
-```
+## Analysis_Competition_Math
+Contains notebook with personal analysis done on the Competition math dataset, namely for QWEN. 
