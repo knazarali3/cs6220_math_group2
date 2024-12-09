@@ -1,31 +1,12 @@
-# cs6220_math_group2
+# LLEMMA Branch
+**Owner:** Kiran Nazarali
 
-## Processed SAT Math Dataset: train and test splits
-sat_math_dict = load_dataset("knazarali3/group2_processed_sat_math_cot")
-```
-DatasetDict({
-    train: Dataset({
-        features: ['id', 'question', 'answer', 'is_correct', 'correct_reasoning_chain', 'index'],
-        num_rows: 25158
-    })
-    test: Dataset({
-        features: ['id', 'question', 'answer', 'is_correct', 'correct_reasoning_chain', 'index'],
-        num_rows: 6290
-    })
-})
-```
+**Model Fine-tuned on SAT Math:** https://huggingface.co/knazarali3/llama3_sat_math
+**Model Fine-tuned on SAT Math and Competition Math:** https://huggingface.co/knazarali3/llama3_COMPETITION_MATH
 
-## Competition Math Dataset: train and test splits
-competition_math_dict = load_dataset("jeggers/competition_math", "original")
-```
-DatasetDict({
-    train: Dataset({
-        features: ['problem', 'level', 'type', 'solution', 'extracted_solution'],
-        num_rows: 7500
-    })
-    test: Dataset({
-        features: ['problem', 'level', 'type', 'solution', 'extracted_solution'],
-        num_rows: 5000
-    })
-})
-```
+**Branch Files:**
+* dataset/ - preprocessing files for dataset
+* llama3-training-sat-math/ - scripts & batch job log file for fine-tuning llama3 on sat math
+* llama3-training-competition-math/ -  scripts & batch job log file for fine-tuning llama3 on competition math
+* llama3-inference-competition-math/ - scripts, batch job log, & results for inference of fine-tuned llama3 on competition math
+* llama3-inference-sat-math - scripts, batch job log, & results for inference of fine-tuned llama3 on sat math
