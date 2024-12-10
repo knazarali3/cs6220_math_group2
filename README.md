@@ -1,6 +1,8 @@
 # Llama3 Branch
 **Owner:** Kiran Nazarali
 
+**Model Fine-tuned from:** https://huggingface.co/unsloth/Meta-Llama-3.1-8B-bnb-4bit
+
 **Model Fine-tuned on SAT Math:** https://huggingface.co/knazarali3/llama3_sat_math
 
 **Model Fine-tuned on SAT Math and Competition Math:** https://huggingface.co/knazarali3/llama3_COMPETITION_MATH
