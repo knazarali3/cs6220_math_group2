@@ -1,5 +1,20 @@
-# cs6220_math_group2
+# CS6220 Big Data Systems and Analytics: Group 2
 
+Instructor: Professor Ling Liu
+
+| Branch Name | Owner | 
+|------------------|------------------|
+| Analysis_Kiran  | Kiran  | 
+| Analysis_Michael  | Michael | 
+| GPT   | Michael    | 
+| Mistral_7B   | Saaliha    | 
+| QWEN   | Michael    | 
+| llama3   | Kiran    | 
+| llemma   | Meredith  | 
+
+Each branch has either training and inference code for our individual model or separate analysis.
+
+# Datasets
 ## Processed SAT Math Dataset: train and test splits
 sat_math_dict = load_dataset("knazarali3/group2_processed_sat_math_cot")
 ```
