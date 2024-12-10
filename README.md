@@ -1,4 +1,4 @@
-# LLEMMA Branch
+# Llama3 Branch
 **Owner:** Kiran Nazarali
 
 **Model Fine-tuned on SAT Math:** https://huggingface.co/knazarali3/llama3_sat_math
