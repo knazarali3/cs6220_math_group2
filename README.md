@@ -2,15 +2,15 @@
 
 Instructor: Professor Ling Liu
 
-| Branch Name | Owner | 
-|------------------|------------------|
-| Analysis_Kiran  | Kiran  | 
-| Analysis_Michael  | Michael | 
-| GPT   | Michael    | 
-| Mistral_7B   | Saaliha    | 
-| QWEN   | Michael    | 
-| llama3   | Kiran    | 
-| llemma   | Meredith  | 
+| Branch Name | Owner | Model link (if applicable)
+|------------------|------------------|------------------|
+| Analysis_Kiran  | Kiran  | |
+| Analysis_Michael  | Michael | |
+| GPT   | Michael    | |
+| Mistral_7B   | Saaliha    | https://huggingface.co/SaalihaA/mistral_v7_Competition_Dataset |
+| QWEN   | Michael    | https://huggingface.co/unsloth/Qwen2.5-Math-7B-Instruct-bnb-4bit |
+| llama3   | Kiran    | https://huggingface.co/knazarali3/llama3_COMPETITION_MATH |
+| llemma   | Meredith  | https://huggingface.co/EleutherAI/llemma_7b |
 
 Each branch has either training and inference code for our individual model or separate analysis.
 
