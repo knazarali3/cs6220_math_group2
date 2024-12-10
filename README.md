@@ -12,4 +12,4 @@
 * llama3-training-sat-math/ - scripts & batch job log file for fine-tuning llama3 on sat math
 * llama3-training-competition-math/ -  scripts & batch job log file for fine-tuning llama3 on competition math
 * llama3-inference-competition-math/ - scripts, batch job log, & results for inference of fine-tuned llama3 on competition math
-* llama3-inference-sat-math - scripts, batch job log, & results for inference of fine-tuned llama3 on sat math
+* llama3-inference-sat-math/ - scripts, batch job log, & results for inference of fine-tuned llama3 on sat math
