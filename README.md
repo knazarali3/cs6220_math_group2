@@ -8,9 +8,9 @@ Instructor: Professor Ling Liu
 | Analysis_Michael  | Michael | |
 | GPT   | Michael    | |
 | Mistral_7B   | Saaliha    | https://huggingface.co/SaalihaA/mistral_v7_Competition_Dataset |
-| QWEN   | Michael    | https://huggingface.co/unsloth/Qwen2.5-Math-7B-Instruct-bnb-4bit |
+| QWEN   | Michael    | https://huggingface.co/MichaelHu03/CS6220-QWEN-Comp-Finetuned|
 | llama3   | Kiran    | https://huggingface.co/knazarali3/llama3_COMPETITION_MATH |
-| llemma   | Meredith  | https://huggingface.co/EleutherAI/llemma_7b |
+| llemma   | Meredith  | https://huggingface.co/mrush30/cs6220-llemma_both |
 
 Each branch has either training and inference code for our individual model or separate analysis.
 
