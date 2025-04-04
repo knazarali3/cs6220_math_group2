@@ -1,6 +1,6 @@
 # CS6220 Big Data Systems and Analytics: Group 2
 
-Instructor: Professor Ling Liu
+Instructor: Professor Ling Liu <br>
 Team: Kiran Nazarali, Michael Hu, Meredith Rush, Saaliha Allauddin
 
 | Branch Name | Owner | Model link (if applicable)
